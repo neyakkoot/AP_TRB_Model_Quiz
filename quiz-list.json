@@ -1,0 +1,28 @@
+[
+  {
+    "category": "தமிழ்க் களஞ்சியம் 1",
+    "quizzes": [
+      { "file": "Mozhiyiyal.json", "title": "மொழியியல்" },
+      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல்" },
+      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு" },
+      { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம்" },
+      { "file": "Ithazhiyal.json", "title": "இதழியல்" },
+      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல்" },
+      { "file": "Tholliyal.json", "title": "தொல்லியல்" }
+    ]
+  },
+  {
+    "category": "தமிழ்க் களஞ்சியம் 2",
+    "quizzes": [
+      { "file": "TamilGrammar_1.json", "title": "இலக்கண நூல்கள், உரையாசிரியர்கள்" },
+      { "file": "TamilGrammar_2.json", "title": "இலக்கண நூல்கள், உரையாசிரியர்கள்" }
+    ]
+  },
+  {
+    "category": "தமிழ்க் களஞ்சியம் 3",
+    "quizzes": [
+      { "file": "TamilGrammar_1.json", "title": "அகத்தியம்" },
+      { "file": "TamilGrammar_2.json", "title": "தொல்காப்பியம்" }
+    ]
+  }
+]
