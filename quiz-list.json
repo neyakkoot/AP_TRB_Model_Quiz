@@ -2,29 +2,42 @@
   {
     "category": "தமிழ்க் களஞ்சியம் 1",
     "quizzes": [
-      { "file": "Mozhiyiyal.json", "title": "மொழியியல்" },
-      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல்" },
-      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு" },
-      { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம்" },
-      { "file": "Ithazhiyal.json", "title": "இதழியல்" },
-      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல்" },
-      { "file": "Tholliyal.json", "title": "தொல்லியல்" },
+      { "file": "Mozhiyiyal_1.json", "title": "மொழியியல் 1" },
+      { "file": "Nattupuraviyal_1.json", "title": "நாட்டுப்புறவியல் 1" },
+      { "file": "Ilakkiyaththiranaivu_1.json", "title": "இலக்கியத் திறனாய்வு 1" },
+      { "file": "Tolkappiyam_1.json", "title": "தொல்காப்பியம் 1" },
+      { "file": "Ithazhiyal_1.json", "title": "இதழியல் 1" },
+      { "file": "Mozhipeyarppiyal_1.json", "title": "மொழிபெயர்ப்பியல் 1" },
+      { "file": "Tholliyal_1.json", "title": "தொல்லியல் 1" },
       { "file": "Classical_Literature_1.json", "title": "சங்க இலக்கியம் 1" }
     ]
   },
   {
     "category": "தமிழ்க் களஞ்சியம் 2",
     "quizzes": [
-      { "file": "TamilGrammar_1.json", "title": "இலக்கண நூல்கள், உரையாசிரியர்கள்" },
-      { "file": "TamilGrammar_2.json", "title": "இலக்கண நூல்கள், உரையாசிரியர்கள்" }
+      { "file": "Mozhiyiyal_2.json", "title": "மொழியியல் 2" },
+      { "file": "Nattupuraviyal_2.json", "title": "நாட்டுப்புறவியல் 2" },
+      { "file": "Ilakkiyaththiranaivu_2.json", "title": "இலக்கியத் திறனாய்வு 2" },
+      { "file": "Tolkappiyam_2.json", "title": "தொல்காப்பியம் 2" },
+      { "file": "Ithazhiyal_2.json", "title": "இதழியல் 2" },
+      { "file": "Mozhipeyarppiyal_2.json", "title": "மொழிபெயர்ப்பியல் 2" },
+      { "file": "Tholliyal_2.json", "title": "தொல்லியல் 2" },
+      { "file": "Classical_Literature_2.json", "title": "சங்க இலக்கியம் 2" }
     ]
   },
   {
     "category": "தமிழ்க் களஞ்சியம் 3",
     "quizzes": [
-      { "file": "TamilGrammar_1.json", "title": "அகத்தியம்" },
-      { "file": "TamilGrammar_2.json", "title": "தொல்காப்பியம்" }
+      { "file": "Mozhiyiyal_3.json", "title": "மொழியியல் 3" },
+      { "file": "Nattupuraviyal_3.json", "title": "நாட்டுப்புறவியல் 3" },
+      { "file": "Ilakkiyaththiranaivu_3.json", "title": "இலக்கியத் திறனாய்வு 3" },
+      { "file": "Tolkappiyam_3.json", "title": "தொல்காப்பியம் 3" },
+      { "file": "Ithazhiyal_3.json", "title": "இதழியல் 3" },
+      { "file": "Mozhipeyarppiyal_3.json", "title": "மொழிபெயர்ப்பியல் 3" },
+      { "file": "Tholliyal_3.json", "title": "தொல்லியல் 3" },
+      { "file": "Classical_Literature_3.json", "title": "சங்க இலக்கியம் 3" }
     ]
   }
 
 ]
+
