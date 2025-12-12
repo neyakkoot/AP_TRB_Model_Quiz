@@ -8,7 +8,8 @@
       { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம்" },
       { "file": "Ithazhiyal.json", "title": "இதழியல்" },
       { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல்" },
-      { "file": "Tholliyal.json", "title": "தொல்லியல்" }
+      { "file": "Tholliyal.json", "title": "தொல்லியல்" },
+      { "file": "Classical_Literature_1.json", "title": "சங்க இலக்கியம் 1" }
     ]
   },
   {
@@ -25,4 +26,5 @@
       { "file": "TamilGrammar_2.json", "title": "தொல்காப்பியம்" }
     ]
   }
+
 ]
