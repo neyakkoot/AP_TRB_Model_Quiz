@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தொல்காப்பியர் குறிப்பிடும் 'முதல் நூல்' என்பதன் இலக்கணம் யாது?\n1. வினையின் நீங்கி விளங்கிய அறிவின் முனைவன் கண்டது.\n2. வழிநூல் செய்வோரால் வழிமொழியப் பெறுவது.\n3. முன்னோர் நூலின் முடிபு ஒருங்கு ஒப்பது.\n4. வினையினால் செய்யப்பட்ட நூல்.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1 மட்டும்",
+        [cite_start]"rationale": "வினையின் நீங்கி விளங்கிய அறிவின் முனைவன் கண்டது முதல் நூல் ஆகும் என்று மரபியல் 95-ல் குறிப்பிடப்பட்டுள்ளது[cite: 1220].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இறைவனால் அருளப்பட்டது போன்றது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "வழிநூல் எத்தனை வகைப்படும் எனத் தொல்காப்பியம் கூறுகிறது?\n1. இரண்டு\n2. மூன்று\n3. நான்கு\n4. ஐந்து",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்கு",
+        [cite_start]"rationale": "தொகுத்தல், விரித்தல், தொகைவிரி, மொழிபெயர்த்தல் என வழிநூல் நான்கு வகைப்படும் என்று மரபியல் 98-ல் கூறப்பட்டுள்ளது[cite: 1211, 1220].",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "நூல் வகைதான் இரண்டு (முதல், வழி).",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொகுத்தல், விரித்தல்..."
+  },
+  {
+    "questionNumber": 3,
+    "question": "எழுத்துக்களின் மாத்திரை அளவுகள் குறித்துச் சரியானதைத் தேர்க:\n1. குற்றெழுத்து - 1 மாத்திரை\n2. நெட்டெழுத்து - 2 மாத்திரை\n3. மெய்யெழுத்து - 1/2 மாத்திரை\n4. குற்றியலுகரம் - 1 மாத்திரை\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3",
+        [cite_start]"rationale": "குற்றெழுத்து ஓர் அளபு [cite: 35][cite_start], நெட்டெழுத்து ஈர் அளபு [cite: 39][cite_start], மெய்யின் அளபே அரை[cite: 41]. [cite_start]குற்றியலுகரம் அரை மாத்திரை கொண்டது[cite: 41].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 4",
+        "rationale": "குற்றியலுகரம் 1 மாத்திரை அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குற்றியலுகரம் குறைந்து ஒலிப்பது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "மொழிக்கு முதலில் வரும் எழுத்துக்கள் எவை?\n1. பன்னிரண்டு உயிரெழுத்துக்கள்\n2. க, ச, த, ந, ப, ம ஆகிய மெய்கள்\n3. ட, ற, ல, ள ஆகிய மெய்கள்\n4. ஞ, ங, ய, வ ஆகிய மெய்கள் (சில நிபந்தனைகளுடன்)\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 4",
+        [cite_start]"rationale": "பன்னீர் உயிரும் மொழி முதல் ஆகும்[cite: 84]. [cite_start]க த ந ப ம... முதலே[cite: 84]. [cite_start]சகரக் கிளவியும்... ஞகாரத்து உரிய[cite: 84]. ட ற ல ள மொழி முதல் ஆகா.",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூல் மரபு மற்றும் மொழி மரபு."
+  },
+  {
+    "questionNumber": 5,
+    "question": "மொழி இறுதியில் வரும் எழுத்துக்கள் எவை?\n1. 11 புள்ளி எழுத்துக்கள் (ஞ், ண், ந், ம், ன், ய், ர், ல், வ், ழ், ள்)\n2. குற்றியலுகரம்\n3. உயிர் எழுத்துக்கள் (ஔ தவிர)\n4. ஆய்தம்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        [cite_start]"rationale": "ஞ ண ந ம ன ய ர ல வ ழ ள என்னும் அப் பதினொன்றே புள்ளி இறுதி[cite: 94]. [cite_start]குற்றியலுகரமும் ஈறாகும்[cite: 137]. [cite_start]உயிர் எழுத்துக்களும் ஈறாகும் ஆனால் 'ஔ'வும் வரும் (கௌ, வௌ)[cite: 84]. ஆய்தம் இடையில் மட்டுமே வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொழி மரபு 36-45."
+  },
+  {
+    "questionNumber": 6,
+    "question": "வேற்றுமை உருபுகள் மொத்தம் எத்தனை?\n1. ஆறு\n2. ஏழு\n3. எட்டு\n4. ஐந்து",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு",
+        [cite_start]"rationale": "வேற்றுமைதாமே ஏழ் என மொழிப... விளி கொள்வதன்கண் விளியொடு எட்டே [cite: 394-396].",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "விளியையும் சேர்த்து எட்டாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விளி வேற்றுமையையும் கணக்கில் கொள்க."
+  },
+  {
+    "questionNumber": 7,
+    "question": "இரண்டாம் வேற்றுமை ('ஐ') எப்பொருளில் வரும்?\n1. கருவி\n2. செயப்படுபொருள்\n3. கொடை\n4. உடைமை",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செயப்படுபொருள்",
+        [cite_start]"rationale": "ஐ எனப் பெயரிய வேற்றுமைக் கிளவி... வினையே வினைக்குறிப்பு அவ் இரு முதலின் தோன்றும் (செயப்படுபொருளை உணர்த்தும்) [cite: 418-420].",
+        "isCorrect": true
+      },
+      {
+        "text": "கருவி",
+        [cite_start]"rationale": "கருவி மூன்றாம் வேற்றுமை[cite: 434].",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடை",
+        [cite_start]"rationale": "கொடை நான்காம் வேற்றுமை[cite: 441].",
+        "isCorrect": false
+      },
+      {
+        "text": "உடைமை",
+        [cite_start]"rationale": "உடைமை ஆறாம் வேற்றுமை[cite: 457].",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆக்கல், அழித்தல்..."
+  },
+  {
+    "questionNumber": 8,
+    "question": "நான்காம் வேற்றுமை ('கு') எப்பொருளில் வரும்?\n1. கொடை, பகை, நட்பு, தகுதி\n2. கருவி, கருத்தா\n3. எல்லை, நீங்கல்\n4. உடைமை",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1 மட்டும்",
+        [cite_start]"rationale": "கு எனப் பெயரிய வேற்றுமை... அதற்கு வினை உடைமையின்... நட்பின் பகையின் காதலின் சிறப்பின்... (கொடைப் பொருளில் வரும்) [cite: 441-448].",
+        "isCorrect": true
+      },
+      {
+        "text": "2 மட்டும்",
+        "rationale": "இது மூன்றாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "3 மட்டும்",
+        "rationale": "இது ஐந்தாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "4 மட்டும்",
+        "rationale": "இது ஆறாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒருவருக்கு ஒன்றைக் கொடுப்பது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "ஐந்தாம் வேற்றுமை ('இன்') எப்பொருளில் வரும்?\n1. ஒப்பு, எல்லை, ஏது (காரணம்), நீங்கல்\n2. கொடை\n3. இடம், காலம்\n4. கருவி",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1 மட்டும்",
+        [cite_start]"rationale": "இன் எனப் பெயரிய வேற்றுமைக் கிளவி இதனின் இற்று இது என்னும் அதுவே (வண்ணம், வடிவு, அளவு, சுவை, ஒப்பு, எல்லை, ஏது, நீங்கல்) [cite: 451-454].",
+        "isCorrect": true
+      },
+      {
+        "text": "2 மட்டும்",
+        "rationale": "இது நான்காம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "3 மட்டும்",
+        "rationale": "இது ஏழாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "4 மட்டும்",
+        "rationale": "இது மூன்றாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலையின் இழிந்த அருவி."
+  },
+  {
+    "questionNumber": 10,
+    "question": "பெயரியல் குறிப்பிடும் பெயர்ச்சொல் வகைகள் யாவை?\n1. உயர்திணைப்பெயர், அஃறிணைப்பெயர்\n2. விரவுப்பெயர்\n3. தன்மை, முன்னிலை, படர்க்கைப் பெயர்கள்\n4. இவை அனைத்தும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "உயர்திணைக்கு உரிமையும் அஃறிணைக்கு உரிமையும்... அவன் இவன்... யான் யாம் நாம்... (எல்லாவகைப் பெயர்களையும் பெயரியல் விளக்குகிறது) [cite: 533-542].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரியல் 6-13."
+  },
+  {
+    "questionNumber": 11,
+    "question": "தன்மைப் பன்மைப் பெயர்கள் எவை?\n1. யான், நான்\n2. யாம், நாம்\n3. நீ, நீர்\n4. தான், தாம்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2 மட்டும்",
+        [cite_start]"rationale": "யாம், நாம் என்பவை தன்மைப் பன்மைப் பெயர்கள்[cite: 541]. யான் என்பது தன்மை ஒருமை.",
+        "isCorrect": true
+      },
+      {
+        "text": "1 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "4 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரியல் 8."
+  },
+  {
+    "questionNumber": 12,
+    "question": "வினையியல் குறிப்பிடும் காலங்கள் எவை?\n1. இறப்பு\n2. நிகழ்வு\n3. எதிர்வு\n4. இவை மூன்றும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "இறப்பின் நிகழ்வின் எதிர்வின் என்றா அம் முக் காலமும்[cite: 582].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வினையியல் 3."
+  },
+  {
+    "questionNumber": 13,
+    "question": "வியங்கோள் வினைமுற்று எத்திணைகளுக்கு உரியது?\n1. உயர்திணைக்கு மட்டும்\n2. அஃறிணைக்கு மட்டும்\n3. இரு திணைக்கும் பொது\n4. விரவுத்திணைக்கு மட்டும்",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரு திணைக்கும் பொது",
+        [cite_start]"rationale": "வியங்கோள்... இரு திணைச் சொற்கும் ஓரன்ன உரிமைய[cite: 618].",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்திணைக்கு மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "அஃறிணைக்கு மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "விரவுத்திணைக்கு மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாழ்க, ஒழிக."
+  },
+  {
+    "questionNumber": 14,
+    "question": "எச்சம் எத்தனை வகைப்படும்?\n1. பெயரெச்சம்\n2. வினையெச்சம்\n3. இரண்டும்\n4. முற்றெச்சம்",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டும்",
+        [cite_start]"rationale": "பெயரெஞ்சுகிளவியும் வினையெஞ்சுகிளவியும்...[cite: 621].",
+        "isCorrect": true
+      },
+      {
+        "text": "பெயரெச்சம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வினையெச்சம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "முற்றெச்சம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வினையியல் 31-37."
+  },
+  {
+    "questionNumber": 15,
+    "question": "இடைச்சொற்களின் வகைகள் யாவை?\n1. வேற்றுமை உருபுகள், வினை விகுதிகள்\n2. சாரியை, உவம உருபுகள்\n3. தத்தம் குறிப்பில் பொருள் செய்யும் சொற்கள் (மன், தில்லை)\n4. இவை அனைத்தும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "புணரியல் நிலையிடை... வினை செயல் மருங்கின்... வேற்றுமைப் பொருள்வயின்... அசைநிலை... இசைநிறை... தம்தம் குறிப்பின் பொருள் செய்குநவும்... (இடைச்சொல் வகைகள்) [cite: 636-638].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடையியல் 2."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'மன்' என்னும் இடைச்சொல் உணர்த்தும் பொருட்கள்:\n1. கழிவு\n2. ஆக்கம்\n3. ஒழியிசை\n4. இவை மூன்றும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "கழிவே ஆக்கம் ஒழியிசைக் கிளவி என்று அம் மூன்று என்ப மன்னைச் சொல்லே[cite: 643].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடையியல் 4."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'தில்லை' என்னும் இடைச்சொல் உணர்த்தும் பொருட்கள்:\n1. விழைவு\n2. காலம்\n3. ஒழியிசை\n4. இவை மூன்றும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "விழைவே காலம் ஒழியிசைக் கிளவி என்று அம் மூன்று என்ப தில்லைச் சொல்லே[cite: 646].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடையியல் 5."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'கொன்' என்னும் இடைச்சொல் உணர்த்தும் பொருட்கள்:\n1. அச்சம்\n2. பயம் இலி\n3. காலம், பெருமை\n4. இவை நான்கும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "அச்சம் பயம் இலி காலம் பெருமை என்று அப் பால் நான்கே கொன்னைச் சொல்லே[cite: 648].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடையியல் 6."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'உம்' என்னும் இடைச்சொல் உணர்த்தும் பொருட்கள்:\n1. எச்சம், சிறப்பு, ஐயம், எதிர்மறை\n2. முற்று, எண், தெரிநிலை, ஆக்கம்\n3. இவை எட்டும்\n4. இவை ஆறும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3 மட்டும்",
+        [cite_start]"rationale": "எச்சம் சிறப்பே ஐயம் எதிர்மறை முற்றே எண்ணே தெரிநிலை ஆக்கம் என்று அப் பால் எட்டே உம்மைச் சொல்லே[cite: 650].",
+        "isCorrect": true
+      },
+      {
+        "text": "1 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "4 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடையியல் 7."
+  },
+  {
+    "questionNumber": 20,
+    "question": "உரிச்சொல்லின் இயல்பு யாது?\n1. இசை, குறிப்பு, பண்பு ஆகியவற்றை உணர்த்தும்.\n2. பெயருக்கும் வினைக்கும் உரியதாய் வரும்.\n3. ஒரு சொல் பல பொருளையும், பல சொல் ஒரு பொருளையும் தரும்.\n4. இவை அனைத்தும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "இசையினும் குறிப்பினும் பண்பினும் தோன்றி... பெயரினும் வினையினும்... ஒரு சொல் பல பொருட்கு... பல சொல் ஒரு பொருட்கு...[cite: 660].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உரியியல் 1."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'உறு', 'தவ', 'நனி' என்னும் உரிச்சொற்கள் உணர்த்தும் பொருள்:\n1. மிகுதி\n2. குறைவு\n3. அச்சம்\n4. இன்பம்",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிகுதி",
+        [cite_start]"rationale": "உறு தவ நனி என வரூஉம் மூன்றும் மிகுதி செய்யும் பொருள என்ப[cite: 662].",
+        "isCorrect": true
+      },
+      {
+        "text": "குறைவு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "அச்சம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்பம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உரியியல் 3."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'கடி' என்னும் உரிச்சொல் உணர்த்தும் பொருட்கள்:\n1. காப்பு, கூர்மை, வரைவு\n2. சிறப்பு, விரைவு, விளக்கம்\n3. மிகுதி, புதுமை, அச்சம், முன்தேற்று\n4. இவை அனைத்தும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "கடி என் கிளவி வரைவே கூர்மை காப்பே புதுமை விரைவே விளக்கம் மிகுதி சிறப்பே அச்சம் முன்தேற்று ஆயீர் ஐந்தும்...[cite: 669].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடிநகர், கடிவாள்..."
+  },
+  {
+    "questionNumber": 23,
+    "question": "செய்யுள் ஈட்டச் சொற்கள் (வழக்குச் சொற்கள்) எவை?\n1. இயற்சொல்\n2. திரிசொல்\n3. திசைச்சொல்\n4. வடசொல்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        [cite_start]"rationale": "இயற்சொல் திரிசொல் திசைச்சொல் வடசொல் என்று அனைத்தே செய்யுள் ஈட்டச் சொல்லே[cite: 671].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எச்சவியல் 1."
+  },
+  {
+    "questionNumber": 24,
+    "question": "இயற்சொல் என்பதன் இலக்கணம்:\n1. செந்தமிழ் நிலத்து வழக்கொடு சிவணி வருவது.\n2. இயல்பாகப் பொருள் தருவது.\n3. கற்றோர்க்கு மட்டும் விளங்குவது.\n4. வடமொழியில் இருந்து வந்தது.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        [cite_start]"rationale": "இயற்சொல்தாமே செந்தமிழ் நிலத்து வழக்கொடு சிவணி தம் பொருள் வழாமை இசைக்கும் சொல்லே[cite: 671].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எச்சவியல் 2."
+  },
+  {
+    "questionNumber": 25,
+    "question": "வடசொல் என்பதன் இலக்கணம்:\n1. வட எழுத்து ஒரீஇ (நீங்கி) வருவது.\n2. தமிழ்ச் சிதைவுற்று வருவது.\n3. வடமொழியில் உள்ளவாறே வருவது.\n4. திசைச் சொற்களோடு சேர்வது.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        "rationale": "வடசொல் கிளவி வட எழுத்து ஒரீஇ எழுத்தொடு புணர்ந்த சொல் ஆகும்மே. [cite_start]சிதைந்தன வரினும் இயைந்தன வரையார்[cite: 674].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எச்சவியல் 5, 6."
+  },
+  {
+    "questionNumber": 26,
+    "question": "அகத்திணைகள் எத்தனை?\n1. ஐந்து\n2. ஏழு\n3. ஒன்பது\n4. நான்கு",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஏழு",
+        [cite_start]"rationale": "கைக்கிளை முதலாப் பெருந்திணை இறுவாய் முற்படக் கிளந்த எழு திணை என்ப[cite: 689].",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "அன்பின் ஐந்திணை ஐந்து, ஆனால் அகத்திணைகள் மொத்தம் ஏழு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணையியல் 1."
+  },
+  {
+    "questionNumber": 27,
+    "question": "முல்லைத் திணையின் முதற்பொருள்:\n1. நிலம்: காடு (மாயோன் மேய காடு உறை உலகம்).\n2. பொழுது: கார், மாலை.\n3. நிலம்: மலை.\n4. பொழுது: கூதிர், யாமம்.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        "rationale": "மாயோன் மேய காடு உறை உலகமும் (முல்லை). [cite_start]காரும் மாலையும் முல்லை[cite: 696].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணையியல் 5, 6."
+  },
+  {
+    "questionNumber": 28,
+    "question": "குறிஞ்சித் திணையின் முதற்பொருள்:\n1. நிலம்: மலை (சேயோன் மேய மை வரை உலகம்).\n2. பொழுது: கூதிர், யாமம்.\n3. நிலம்: வயல்.\n4. பொழுது: வைகறை, விடியல்.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        "rationale": "சேயோன் மேய மை வரை உலகமும் (குறிஞ்சி). [cite_start]குறிஞ்சி, கூதிர் யாமம் என்மனார் புலவர்[cite: 696].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணையியல் 5, 7."
+  },
+  {
+    "questionNumber": 29,
+    "question": "பாலைத் திணையின் பொழுதுகள்:\n1. நண்பகல்\n2. வேனில்\n3. பின்பனி\n4. கார்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3",
+        [cite_start]"rationale": "நடுவுநிலைத் திணையே (பாலை) நண்பகல் வேனிலொடு... பின்பனிதானும் உரித்து[cite: 696].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணையியல் 11, 12."
+  },
+  {
+    "questionNumber": 30,
+    "question": "கருப்பொருட்கள் எவை?\n1. தெய்வம், உணவு\n2. மா, மரம், புள், பறை\n3. செய்தி, யாழ்\n4. இவை அனைத்தும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "தெய்வம் உணாவே மா மரம் புள் பறை செய்தி யாழின் பகுதியொடு தொகை இ அவ் வகை பிறவும் கரு என மொழிப[cite: 698].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணையியல் 20."
+  },
+  {
+    "questionNumber": 31,
+    "question": "உரிப்பொருட்கள் எவை?\n1. புணர்தல், பிரிதல், இருத்தல், இரங்கல், ஊடல்.\n2. அவற்றின் நிமித்தம்.\n3. தெய்வம், உணவு.\n4. நிலம், பொழுது.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        [cite_start]"rationale": "புணர்தல் பிரிதல் இருத்தல் இரங்கல் ஊடல் அவற்றின் நிமித்தம் என்றிவை... உரிப்பொருளே[cite: 696].",
+        "isCorrect": true
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணையியல் 16."
+  },
+  {
+    "questionNumber": 32,
+    "question": "கைக்கிளை மற்றும் பெருந்திணை என்பன:\n1. ஒருதலைக் காமம் (கைக்கிளை).\n2. பொருந்தாக் காமம் (பெருந்திணை).\n3. அகத்திணையின் பாற்படும்.\n4. இவை புறத்திணைகள்.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3",
+        "rationale": "காமம் சாலா இளமையோள்வயின்... கைக்கிளை. மிக்க காமத்து மிடலொடு... பெருந்திணை. [cite_start]இவை அகத்திணைகள் [cite: 704-705].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணையியல் 53, 54."
+  },
+  {
+    "questionNumber": 33,
+    "question": "புறத்திணைகள் எவை?\n1. வெட்சி, வஞ்சி, உழிஞை, தும்பை, வாகை, காஞ்சி, பாடாண்.\n2. வெட்சி என்பது குறிஞ்சியின் புறம்.\n3. வஞ்சி என்பது முல்லையின் புறம்.\n4. உழிஞை என்பது மருதத்தின் புறம்.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        [cite_start]"rationale": "வெட்சிதானே குறிஞ்சியது புறனே[cite: 706]. [cite_start]வஞ்சிதானே முல்லையது புறனே[cite: 717]. [cite_start]உழிஞைதானே மருதத்துப் புறனே[cite: 720].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புறத்திணையியல் நூற்பாக்கள்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "வெட்சித் திணையின் செயல்:\n1. ஆநிரை கவர்தல்.\n2. ஆநிரை மீட்டல் (கரந்தை).\n3. மதில் வளைத்தல்.\n4. போர் செய்தல்.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        "rationale": "வேந்து விடு முனைஞர் வேற்றுப் புலக் களவின் ஆ தந்து ஓம்பல் மேவற்று ஆகும் (வெட்சி). [cite_start]ஆ பெயர்த்துத் தருதலும்... கரந்தை [cite: 706-708].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறிஞ்சி நில மக்களின் தொழில்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "காஞ்சித் திணை எதனை உணர்த்துகிறது?\n1. நிலையாமை (உலக நிலையாமை).\n2. போர் வெற்றி.\n3. காதலை.\n4. மதில் காத்தலை.",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிலையாமை",
+        [cite_start]"rationale": "காஞ்சிதானே பெருந்திணைப் புறனே பாங்கு அருஞ் சிறப்பின்... நில்லா உலகம் புல்லிய நெறித்தே[cite: 744].",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் வெற்றி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "காதல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மதில் காத்தல்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புறத்திணையியல் 19."
+  },
+  {
+    "questionNumber": 36,
+    "question": "பாடாண் திணை எதனை உணர்த்துகிறது?\n1. ஒருவனுடைய புகழ், வலிமை, கொடை, அருள் ஆகியவற்றைப் பாடுவது.\n2. கைக்கிளையின் புறம்.\n3. கடவுள் வாழ்த்து, செவியறிவுறூஉ போன்றவை இதில் அடங்கும்.\n4. இவை அனைத்தும்.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        "rationale": "பாடாண் பகுதி கைக்கிளைப் புறனே நாடும் காலை நால் இரண்டு உடைத்தே. [cite_start]அமரர்கண் முடியும்... புரை தீர் காமம்... [cite: 745-748].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடு + ஆண் + திணை."
+  },
+  {
+    "questionNumber": 37,
+    "question": "மெய்ப்பாடுகள் எத்தனை?\n1. எட்டு\n2. ஒன்பது\n3. பத்து\n4. ஏழு",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு",
+        [cite_start]"rationale": "நகையே அழுகை இளிவரல் மருட்கை அச்சம் பெருமிதம் வெகுளி உவகை என்று அப் பால் எட்டே மெய்ப்பாடு என்ப[cite: 1036].",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒன்பது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மெய்ப்பாட்டியல் 3."
+  },
+  {
+    "questionNumber": 38,
+    "question": "நகை (சிரிப்பு) தோன்றுவதற்கான காரணங்கள்:\n1. எள்ளல்\n2. இளமை\n3. பேதைமை\n4. மடன்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        [cite_start]"rationale": "எள்ளல் இளமை பேதைமை மடன் என்று உள்ளப்பட்ட நகை நான்கு என்ப[cite: 1038].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மெய்ப்பாட்டியல் 4."
+  },
+  {
+    "questionNumber": 39,
+    "question": "அழுகை தோன்றுவதற்கான காரணங்கள்:\n1. இளிவு\n2. இழவு\n3. அசைவு\n4. வறுமை\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        [cite_start]"rationale": "இளிவே இழவே அசைவே வறுமை என விளிவு இல் கொள்கை அழுகை நான்கே[cite: 1041].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மெய்ப்பாட்டியல் 5."
+  },
+  {
+    "questionNumber": 40,
+    "question": "உவமத்தின் வகைகள்:\n1. வினை உவமம்\n2. பயன் உவமம்\n3. மெய் (வடிவ) உவமம்\n4. உரு (நிற) உவமம்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        [cite_start]"rationale": "வினை பயன் மெய் உரு என்ற நான்கே வகை பெற வந்த உவமத் தோற்றம்[cite: 1075].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உவமயியல் 1."
+  },
+  {
+    "questionNumber": 41,
+    "question": "உவம உருபுகள்:\n1. அன்ன, ஏய்ப்ப, உறழ, ஒப்ப\n2. போல, புரைய, மான\n3. கடுப்ப, நிகர்ப்ப\n4. இவை அனைத்தும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4 மட்டும்",
+        [cite_start]"rationale": "அன்ன ஏய்ப்ப உறழ ஒப்ப... போல... கடுப்ப... நிகர்ப்ப... (பட்டியலிடப்பட்டுள்ளன)[cite: 1089].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உவமயியல் 11."
+  },
+  {
+    "questionNumber": 42,
+    "question": "புல்லின் (தாவர) உறுப்புப் பெயர்கள்:\n1. தாள் (நெல், புல்)\n2. தோடு (பனை)\n3. மடல் (பனை)\n4. இலை (மரம்)\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        "rationale": "நெல்லும் புல்லும் தாள்... தோடும் மடலும்... பனை. (புல்லின் உறுப்பு தாள், பனையின் உறுப்பு தோடு/மடல், மரத்தின் உறுப்பு இலை) [cite_start][cite: 1198, 1208].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரபியல் 86-89."
+  },
+  {
+    "questionNumber": 43,
+    "question": "இளமைப் பெயர்கள் (விலங்குகள்):\n1. குட்டி (நாய், பன்றி, புலி, முயல்)\n2. கன்று (யானை, குதிரை, எருமை)\n3. பிள்ளை (கீரி, அணில்)\n4. பார்ப்பு (பறவை)\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        "rationale": "நாயும் பன்றியும் புலியும் முயலும்... குட்டி. களிறு, குதிரை, எருமை... கன்று. [cite_start]பார்ப்பும் பிள்ளையும் பறப்ப...[cite: 1186, 1192].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரபியல் 1-25."
+  },
+  {
+    "questionNumber": 44,
+    "question": "ஆண்பால் பெயர்கள் (விலங்குகள்):\n1. களிறு (யானை, பன்றி)\n2. ஏறு (பன்றி, புலி, எருமை)\n3. சேவல் (குதிரை)\n4. போத்து (மயில், நீர்வாழ்வன)\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        "rationale": "களிறு... யானை... பன்றி. ஏறு... பன்றி புலி... எருமை. சேவல் குதிரைக்கு உரியதல்ல. [cite_start]போத்து நீர்வாழ்வனவற்றிற்கு உரியது[cite: 1189, 1196, 1202].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரபியல் 43-49."
+  },
+  {
+    "questionNumber": 45,
+    "question": "பெண்பால் பெயர்கள் (விலங்குகள்):\n1. பிடி (யானை)\n2. பிணை (மான்)\n3. மந்தி (குரங்கு)\n4. நாகு (எருமை, மரை)\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        "rationale": "பிடி என் பெண் பெயர் யானை. [cite_start]பிணை என் பெயர்... மந்தி... நாகு...[cite: 1197, 1198].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரபியல் 52-64."
+  },
+  {
+    "questionNumber": 46,
+    "question": "நால்வகை வருணத்தார்:\n1. அந்தணர்\n2. அரசர்\n3. வைசியர் (வணிகர்)\n4. வேளாளர்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        [cite_start]"rationale": "அந்தணர், அரசர்... வைசியன்... வேளாளன்... [cite: 1204-1207].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரபியல் 71-84."
+  },
+  {
+    "questionNumber": 47,
+    "question": "நூல் வகை:\n1. முதல் நூல்\n2. வழி நூல்\n3. சார்பு நூல்\n4. மொழிபெயர்ப்பு நூல்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2",
+        [cite_start]"rationale": "முதல் நூல் வழி நூல் என முறைப்பட நாடி (இரண்டு வகை)[cite: 1220].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரபியல் 95."
+  },
+  {
+    "questionNumber": 48,
+    "question": "தொல்காப்பியர் குறிப்பிடும் 34 செய்யுள் உறுப்புகளில் சில:\n1. மாத்திரை, எழுத்து, அசை, சீர்\n2. அடி, யாப்பு, மரபு, தூக்கு\n3. தொடை, நோக்கு, பா, அளவு\n4. திணை, கைகோள், கூற்று, கேட்போர்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3, 4",
+        [cite_start]"rationale": "மாத்திரை எழுத்து இயல் அசை வகை எனாஅ... திணை கைகோள்... கேட்போர்... (34 உறுப்புகள் பட்டியலிடப்பட்டுள்ளன)[cite: 1091].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 2",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுளியல் 1."
+  },
+  {
+    "questionNumber": 49,
+    "question": "வனப்பு (அழகு) வகைகள்:\n1. அம்மை, அழகு, தொன்மை, தோல்\n2. விருந்து, இயைபு, புலன், இழைபு\n3. இவை எட்டும்\n4. இவை நான்கும்\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3 மட்டும்",
+        [cite_start]"rationale": "அம்மை அழகு தொன்மை தோலே விருந்து இயைபு புலன் இழைபு எனாஅ... வனப்பு[cite: 1180].",
+        "isCorrect": true
+      },
+      {
+        "text": "1 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "4 மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுளியல் 227."
+  },
+  {
+    "questionNumber": 50,
+    "question": "உள்ளுறை உவமம் பற்றி:\n1. தெய்வம் ஒழிந்ததை நிலம் எனக் கொள்ளும்.\n2. உள்ளுறுத்து இதனொடு ஒத்துப் பொருள் முடிக என உள்ளுறுத்து இறுவது.\n3. இது அகத்திணைக்கு உரியது.\n4. இது புறத்திணைக்கு உரியது.\nஇவற்றுள் சரியானது",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1, 2, 3",
+        [cite_start]"rationale": "உள்ளுறை தெய்வம் ஒழிந்ததை நிலம் எனக் கொள்ளும்... உள்ளுறுத்து இதனொடு ஒத்துப் பொருள் முடிக என... (அகத்திணையியலில் கூறப்படுகிறது) [cite: 702-703].",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "1, 3, 4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணையியல் 50, 51."
+  }
+]
