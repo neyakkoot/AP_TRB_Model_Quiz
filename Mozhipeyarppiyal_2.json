@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "மொழிபெயர்ப்புக் கலையின் வரலாற்றில் 'பாக்தாத்' நகரின் முக்கியத்துவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அங்குதான் விவிலியம் முதன்முதலில் மொழிபெயர்க்கப்பட்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "8-ஆம் நூற்றாண்டில் அரபு மொழி நூல்கள் இலத்தீனுக்கு மாற்றப்பட அங்கு ஒரு மொழிபெயர்ப்பு மையம் உருவானது",
+        "rationale": "அரேபியத் தலைநகரான பாக்தாத்தில் மொழிபெயர்ப்பு மையம் உருவாகி, அறிவுப் பரவலுக்கு வித்திட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கிரேக்க நூல்கள் அங்கு எரிக்கப்பட்டன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஷேக்ஸ்பியரின் நாடகங்கள் அங்கு மொழிபெயர்க்கப்பட்டன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அரேபியக் கல்வி வளர்ச்சி பெருகத் தொடங்கிய சூழலில் இது நிகழ்ந்தது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "திருக்குறளின் 'அறத்துப்பால்' மட்டும் யாரால், எந்த மொழியில் மொழிபெயர்க்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஜி.யு. போப் - ஆங்கிலம்",
+        "rationale": "இவர் முழுமையாகவும் ஆங்கிலத்திலும் மொழிபெயர்த்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரமாமுனிவர் - இலத்தீன்",
+        "rationale": "வீரமாமுனிவர் அறத்துப்பாலை மட்டும் இலத்தீனில் மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கால்டுவெல் - ஜெர்மன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெர்சிவல் - பிரெஞ்சு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் தேம்பாவணி இயற்றியவர்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "கீழ்க்கண்டவற்றுள் எது 'சொல்லுக்குச் சொல்' (Literal Translation) மொழிபெயர்ப்பின் குறைபாடாகும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூலமொழியின் விறுவிறுப்பு குறைந்துவிடும்",
+        "rationale": "சொல்லுக்குச் சொல் பெயர்க்கும்போது மூலத்தின் ஓட்டம் தடைபடும், விறுவிறுப்பு குறையும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருள் மாறுபடும்",
+        "rationale": "எல்லா நேரங்களிலும் பொருள் மாறாது, ஆனால் நடை கெடும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மிகவும் எளிமையாகிவிடும்",
+        "rationale": "பெரும்பாலும் கடினமாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேரம் அதிகமாகும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'He kicked the bucket' போன்ற மரபுத் தொடர்களில் இது சிக்கலாகும்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "வி.எஸ்.வி. இராகவன் எழுதிய 'மெகஸ்தனீஸ்' என்ற நூல் எவ்வகை மொழிபெயர்ப்பிற்கு உதாரணமாகக் காட்டப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுருக்கமான மொழிபெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விரிவான மொழிபெயர்ப்பு (Amplification)",
+        "rationale": "வரலாற்றுப் பகுதிகளுக்குப் பல நூல்களிலிருந்து மேற்கோள்களும், தமிழ் இலக்கிய ஒப்புமைகளும் சேர்க்கப்பட்டுள்ளதால் இது விரிவானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தழுவல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்லுக்குச் சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூலநூலை விடக் கூடுதல் தகவல்களைத் தருவது."
+  },
+  {
+    "questionNumber": 5,
+    "question": "பாரதியார் எதனை 'எட்டுத்திக்கும்' சென்று கொணர்ந்து சேர்க்கச் சொன்னார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்வங்கள்",
+        "rationale": "பொதுவான செல்வம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலைச் செல்வங்கள்",
+        "rationale": "\"சென்றிடுவீர் எட்டுத்திக்கும் கலைச் செல்வங்கள் யாவும் கொணர்ந்திங்கு சேர்ப்பீர்\" என்பது பாரதி வாக்கு.",
+        "isCorrect": true
+      },
+      {
+        "text": "வணிகப் பொருட்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆயுதங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுச் செல்வம்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "மொழிபெயர்ப்பில் 'மூலமொழியை' விட எதற்கு முக்கியத்துவம் தர வேண்டும் என்பது நவீனக் கோட்பாடு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழிபெயர்ப்பாளரின் திறமைக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெறுமொழி வாசகனுக்கு",
+        "rationale": "மொழிபெயர்ப்பு வாசகனுக்காகவே செய்யப்படுகிறது, எனவே அவனுக்குப் புரியும் வகையில் அமைவதே முக்கியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பதிப்பகத்தாருக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அச்சுக்கூடத்திற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாசகன் மிரளாத வகையில் இருக்க வேண்டும்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "தொல்காப்பியர் 'திசைச்சொல்', 'வடசொல்' பற்றிக் குறிப்பிடுவது எதைக் காட்டுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழிபெயர்ப்பு / தமிழ்ப்படுத்தும் முறைமை",
+        "rationale": "பிறமொழிச் சொற்களைத் தமிழுக்கு ஏற்றவாறு ஒலிமாற்றம் செய்து ஏற்பது பற்றிய பண்டைய வழிகாட்டுதல் இது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மொழியை அழிக்கும் முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கணப் பிழை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை இயற்றும் முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரபியலில் இதற்கான குறிப்பு உள்ளது."
+  },
+  {
+    "questionNumber": 8,
+    "question": "கே. வேலன் என்பவர் சார்லஸ் டிக்கன்ஸின் 'A Tale of Two Cities' நாவலை என்ன பெயரில் மொழிபெயர்த்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரு நகரக் கதை",
+        "rationale": "இது கா. அப்பாத்துரையார் மொழிபெயர்ப்பு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இருபெரும் நகரங்கள்",
+        "rationale": "கே. வேலன் 'இருபெரும் நகரங்கள்' என்ற பெயரில் மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நகரங்களின் கதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரட்டை நகரங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கா. அப்பாத்துரையாரிலிருந்து வேறுபட்ட தலைப்பு."
+  },
+  {
+    "questionNumber": 9,
+    "question": "மொழிபெயர்ப்புத் துறையில் 'கி.மு. 250' ஏன் முக்கிய ஆண்டாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குறள் எழுதப்பட்ட ஆண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "லிவியஸ் அன்டோனிக்ஸ் 'ஒடிசி'யை மொழிபெயர்த்த ஆண்டு",
+        "rationale": "உலகின் முதல் மொழிபெயர்ப்பாகக் கருதப்படும் நிகழ்வு நடந்த ஆண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம் தோன்றிய ஆண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பைபிள் மொழிபெயர்க்கப்பட்ட ஆண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கிரேக்கத்திலிருந்து இலத்தீனுக்கு மாற்றப்பட்டது."
+  },
+  {
+    "questionNumber": 10,
+    "question": "ஜேம்ஸ் ஆலனின் 'As a man thinketh' நூலில் வரும் 'Thought in the mind...' கவிதையை வ.உ.சி. எவ்வாறு மொழிபெயர்த்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல்லுக்குச் சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சரியான மொழிபெயர்ப்பு (Accurate/Close)",
+        "rationale": "\"மனமெனும் நினைப்பே நமையாக்கியது...\" என்று செம்மையும் சீர்மையும் நிறைந்த சரியான மொழிபெயர்ப்பாகத் தந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தழுவல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுருக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூல் பெயர் 'மனம் போல் வாழ்வு'."
+  },
+  {
+    "questionNumber": 11,
+    "question": "அறிவியல் கண்டுபிடிப்புகள் (நியூட்டன், கலீலியோ போன்றவை) தமிழில் மொழிபெயர்க்கப்பட்டதன் விளைவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறிவியல் வளர்ச்சியில் பெரும் திருப்பம் ஏற்பட்டது",
+        "rationale": "மக்களிடையே அறிவியல் சிந்தனை வளரவும், பழைய நம்பிக்கைகள் மாறவும் இது வழிவகுத்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குழப்பம் ஏற்பட்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழியின் அழகு கெட்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எந்த மாற்றமும் இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புவியீர்ப்புச் சக்தி போன்ற கருத்துக்கள் பரவின."
+  },
+  {
+    "questionNumber": 12,
+    "question": "சங்க இலக்கியத்தில் 'அகம், புறம்' போன்ற பாகுபாடுகளை ஆங்கிலத்தில் மொழிபெயர்ப்பது பற்றி நூலின் கருத்து என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிக எளிது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளக்கலாமே தவிர, மொழிபெயர்க்க இயலாது",
+        "rationale": "இவை தமிழ்ப் பண்பாட்டிற்கே உரிய தனித்தன்மைகள், இணையான சொல் ஆங்கிலத்தில் இல்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "அப்படியே ஒலிபெயர்க்கலாம்",
+        "rationale": "இது முழுமையான தீர்வல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேவையற்றது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொழில்நுட்பத் துறை மொழிபெயர்ப்புச் சிக்கலில் இது வருகிறது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "மொழிபெயர்ப்பாளர் ஒரு 'கிரியா ஊக்கி' (Catalyst) என்று அழைக்கப்படக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அவர் வேதியியல் படித்தவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறியாத மொழியில் ஈடுபாடு கொள்ளச் செய்கிறார்",
+        "rationale": "வாசகருக்கும் மூலநூலாசிரியருக்கும் இடையே பாலமாக இருந்து, ஆர்வத்தைத் தூண்டுவதால்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவர் வேகமாக வேலை செய்வார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவர் மாற்றங்களை விரும்பாதவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொழிபெயர்ப்பாளரின் தன்மைகளில் ஒன்று."
+  },
+  {
+    "questionNumber": 14,
+    "question": "ஆங்கிலத்தில் 'Sentence' என்ற சொல் எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாக்கியம் மற்றும் தண்டனைத் தீர்ப்பு",
+        "rationale": "இலக்கணத்தில் வாக்கியம், சட்டத்தில் தண்டனைத் தீர்ப்பு என இரு பொருள் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கேள்வி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சட்ட மொழிபெயர்ப்பில் கவனிக்க வேண்டிய சொல்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'பிரிக் வெற்றி' (Pyrrhic Victory) என்ற தொடரின் பொருள் தெரியாமல் திணறியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேராசிரியர் பட்டாபிராமன்",
+        "rationale": "'இந்திய வரலாறு' நூலை மொழிபெயர்க்கும்போது இவர் இச்சொல்லுக்காக அகராதியைத் தேடினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பேராசிரியர் கல்கி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேராசிரியர் மு.வ.",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேராசிரியர் அ.சீ.நி.",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் சென்னைப் பல்கலைக்கழக அகராதியைப் பயன்படுத்தினார்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "மொழிபெயர்ப்புக் கொள்கைகளை வகுத்தவர்களில் 'ஷிலர் மேக்கர்' (Schleiermacher) மற்றும் 'கோத்தே' (Goethe) எந்த நாட்டைச் சேர்ந்தவர்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஜெர்மனி",
+        "rationale": "இவர்கள் ஜெர்மானிய மொழிக் கொள்கையாளர்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிரான்ஸ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இங்கிலாந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இத்தாலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மேலைநாட்டுக் கொள்கையாளர்கள் பட்டியலில் உள்ளவர்கள்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "மொழிபெயர்ப்பில் 'சுருக்கம்' (Abridgement) என்பது எப்போது பயனுள்ளதாக அமையும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூலநூலைப் படிக்கத் தூண்டும் போது",
+        "rationale": "சுருக்கத்தைப் படித்துவிட்டு மூலத்தை அறியும் ஆர்வம் வாசகருக்கு எழுந்தால் அது வெற்றி.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூலநூலை மறைக்கும் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கருத்தை மாற்றும் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடினமாக இருக்கும் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வை. சாம்பசிவத்தின் ஐன்ஸ்டீன் நூல்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "திரு.வி.க.வின் கருத்துப்படி தமிழை வளர்க்கும் முறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிறமொழிச் சொற்களை அறவே நீக்குவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழை வளர்க்கும் முறையிலும் அளவிலும் கலப்பைக் கொள்வது",
+        "rationale": "தமிழுக்கு ஆக்கம் தேடும் வகையில், தேவைக்கேற்ப பிறமொழிச் சொற்களை ஏற்பது தவறல்ல.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கிலத்தை மட்டும் பயன்படுத்துவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழைய சொற்களை மட்டும் பயன்படுத்துவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலப்பென்று தமிழையே மறைக்கக் கூடாது."
+  },
+  {
+    "questionNumber": 19,
+    "question": "மொழிபெயர்ப்பு நூல்களுக்காகவே சாகித்திய அகாதெமி போன்ற அமைப்புகள் என்ன செய்கின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தடை விதிக்கின்றன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிசுகள் கொடுத்து உற்சாகப்படுத்துகின்றன",
+        "rationale": "மொழிபெயர்ப்பை ஊக்குவிக்க ஆண்டுதோறும் பரிசுகள் வழங்கப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரி விதிக்கின்றன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறக்கணிக்கின்றன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டாம் உலகப் போருக்குப் பின் இது அதிகரித்தது."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'எலிமண்ட்சு' (Elements) நூலை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யூகிளிட்ஸ் (Euclid)",
+        "rationale": "யூகிளிட்ஸ் எழுதிய கணித நூல் இது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அடிலாட்",
+        "rationale": "இவர் மொழிபெயர்ப்பாளர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிளேட்டோ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சாக்ரடீஸ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதனை அடிலாட் மொழிபெயர்த்தார்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "குழந்தைகளுக்கான மொழிபெயர்ப்பில் மிக முக்கியமாகக் கருதப்பட வேண்டிய பண்புகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடினமான நடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிமை, இனிமை, திண்மை",
+        "rationale": "குழந்தைகள் மனதில் பதியுமாறு எளிய, இனிய நடையில் இருக்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தத்துவ விளக்கம்",
+        "rationale": "குழந்தைகளுக்குப் புரியாது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசியல் கருத்துக்கள்",
+        "rationale": "தேவையற்றது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஈசாப் கதைகள் போன்றவை."
+  },
+  {
+    "questionNumber": 22,
+    "question": "1774-இல் விவிலியத்தைத் தமிழில் மொழிபெயர்த்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஜெ.பி. பெப்ரீஷியஸ் (Fabricius)",
+        "rationale": "சீகன்பால்குவிற்குப் பின் 1774-இல் பெப்ரீஷியஸ் மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சீகன்பால்கு",
+        "rationale": "இவர் 1714.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரேனியஸ்",
+        "rationale": "இவர் 1833.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெர்சிவல்",
+        "rationale": "இவர் 1848.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "18-ஆம் நூற்றாண்டு மொழிபெயர்ப்பாளர்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "மொழிபெயர்ப்பில் 'ஒலிபெயர்ப்பு' (Transliteration) எப்போது பயன்படுத்தப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எல்லாச் சொற்களுக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இணையான சொல் கிடைக்காத போது / அறிவியல் குறியீடுகளுக்கு",
+        "rationale": "Radar -> ரேடார், Penicillin -> பென்சிலின் எனப் பிறமொழிச் சொல்லை அப்படியே தமிழ் எழுத்தில் எழுதுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கவிதைகளுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழமொழிகளுக்கு",
+        "rationale": "பழமொழியை மொழிபெயர்க்க வேண்டும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ரேடார், மாலிகியூல்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "கீழ்க்கண்டவற்றுள் எது 'ஆட்சித்துறை' (Administrative) மொழிபெயர்ப்பின் முக்கிய நோக்கம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆளுகை தாய்மொழியில் அமைதல்",
+        "rationale": "நிர்வாகம் மக்களின் மொழியில் (தமிழில்) நடைபெற மொழிபெயர்ப்பு உதவுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அதிகாரிகளின் வசதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலத்தைப் பரப்புதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கியம் வளர்த்தல்",
+        "rationale": "இது முதன்மை நோக்கமல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "1967-க்குப் பின் இது வேகம் பெற்றது."
+  },
+  {
+    "questionNumber": 25,
+    "question": "மொழிபெயர்ப்பில் 'டப்பிங்' (Dubbing) என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நூல் மொழிபெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரைப்பட வசன ஒலிமாற்றம்",
+        "rationale": "திரைப்படத்தில் வேற்று மொழி வசனத்திற்குப் பதில் தாய்மொழி வசனத்தைப் பேசுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கவிதை மொழிபெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிப்பு எழுதுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உதட்டசைவுப் பொருத்தம் முக்கியம்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "மொழிபெயர்ப்புத் துறையில் 'மார்ட்டின் லூதர்' (Martin Luther) ஏன் போற்றப்படுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விவிலியத்தை ஜெர்மன் மொழியில் மொழிபெயர்த்தார்",
+        "rationale": "16-ஆம் நூற்றாண்டில் விவிலியம் முழுவதையும் ஜெர்மன் மொழியில் மொழிபெயர்த்துச் சமயச் சீர்திருத்தத்திற்கு வித்திட்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறளை மொழிபெயர்த்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முதல் அகராதியை உருவாக்கினார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை எழுதினார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஜெர்மானிய மொழிக் கொள்கையாளர்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "பழங்காலத்தில் 'அரசவை அதிகார அறிவிப்பு முறைகளை' மக்களின் பேச்சு மொழியில் மொழிபெயர்க்கச் செய்த அரசர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அசோகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஹமுராபி",
+        "rationale": "கி.பி. 210-இல் ஹமுராபி அரசர் இதைச் செய்தார், இதுவே முதல் மொழிபெயர்ப்பு எனவும் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அலெக்சாண்டர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீசர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சட்டத் தொகுப்பிற்குப் பெயர்பெற்றவர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "மொழிபெயர்ப்பில் 'தேசிய ஒருமைப்பாடு' எதனால் வளர்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரே மொழியைப் பேசுவதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு மொழி இலக்கியங்களையும் கருத்துக்களையும் பிற மொழியினர் அறிவதால்",
+        "rationale": "பிற மாநிலத்தவரின் பண்பாடு, இலக்கியம் ஆகியவற்றை மொழிபெயர்ப்பு மூலம் அறிவது ஒருமைப்பாட்டை வளர்க்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எல்லைகளை மூடுவதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழிகளை அழிப்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சாகித்திய அகாதெமி இதைச் செய்கிறது."
+  },
+  {
+    "questionNumber": 29,
+    "question": "குணங்குடி மஸ்தான் சாகிபு மொழிபெயர்த்த 'அராபிய ஞானப் புதையல்' எவ்வகை நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிறுகதைத் தொகுப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தத்துவப் பாடல்கள்",
+        "rationale": "அராபிய தத்துவப் பாடல்களின் தொகுப்பு இது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரலாற்று நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவ நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சூபி தத்துவம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "கீழ்க்கண்டவற்றுள் எது மொழிபெயர்ப்பின் 'தேவை' (Need) ஆகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கருத்துப் பரிமாற்றம்",
+        "rationale": "ஒரு மொழியின் செய்தியை இன்னொரு மொழிக்குக் கொண்டு செல்ல இது அடிப்படைத் தேவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நேரத்தைக் கடத்துதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பக்கங்களை நிரப்புதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காகிதத்தைச் செலவழித்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தகவல் தொடர்பு."
+  },
+  {
+    "questionNumber": 31,
+    "question": "பாரதியார் 'சென்றிடுவீர் எட்டுத்திக்கும்' என்று பாடியதன் நோக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உலகைச் சுற்றிப் பார்க்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிறநாட்டு கலைச்செல்வங்களைத் தமிழுக்குக் கொண்டுவர",
+        "rationale": "தமிழை வளப்படுத்த பிறமொழி அறிவுச் செல்வங்களைக் கொண்டுவர வேண்டும் என்பதே நோக்கம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வணிகம் செய்ய",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் புரிய",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலைச்செல்வங்கள் யாவும் கொணர்ந்திங்கு சேர்ப்பீர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "மொழிபெயர்ப்பில் 'சுதந்திரம்' என்பது யாரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூலநூலாசிரியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழிபெயர்ப்பாளர்",
+        "rationale": "மூலநூலாசிரியரின் கற்பனையைத் தேர்வு செய்து தன் மொழியில் படைக்க மொழிபெயர்ப்பாளருக்குச் சுதந்திரம் உண்டு, ஆனால் எல்லை மீறக்கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பதிப்பாளர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாசகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிதை மொழிபெயர்ப்பில் இது அதிகம்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஆங்கிலத்தில் 'Still waters run deep' என்பதன் சரியான தமிழ்ப் பழமொழி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அமர்ந்த தண்ணீர் ஆழமாக ஓடும்",
+        "rationale": "இது நேரடி மொழிபெயர்ப்பு, சரியல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிறைகுடம் நீர் தளும்பல் இல்",
+        "rationale": "அறிடவுடையார் அமைதியாக இருப்பர் என்பதைக் குறிக்கும் சரியான இணை.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆழம் தெரியாமல் காலை விடாதே",
+        "rationale": "இது வேறு பொருள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர் இன்றி அமையாது உலகு",
+        "rationale": "இது வள்ளுவர் வாக்கு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அமைதி ஆழத்தைக் குறிக்கும்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "மொழிபெயர்ப்பில் 'முரண்பாடு' (Contradiction) எதனால் ஏற்படலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூலநூலைச் சரியாகப் புரிந்து கொள்ளாததால்",
+        "rationale": "மூலத்தின் கருத்தைச் சரியாகப் புரிந்து கொள்ளாமல் பெயர்த்தால் முரண்பாடு தோன்றும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்ல காகிதத்தில் அச்சிடாததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெரிய எழுத்தில் இல்லாததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படங்கள் இல்லாததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறள் மொழிபெயர்ப்புகளில் இது காணப்படுகிறது."
+  },
+  {
+    "questionNumber": 35,
+    "question": "மொழிபெயர்ப்பின் போது 'கலாச்சாரம்' (Culture) ஏன் முக்கியமாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒவ்வொரு மொழிக்கும் தனித்த கலாச்சாரப் பின்னணி உண்டு",
+        "rationale": "மொழி என்பது கலாச்சாரத்தின் கண்ணாடி. அதைப் புரிந்து கொள்ளாமல் மொழிபெயர்த்தால் பொருள் மாறுபடும் (எ.கா: Uncle, Treatment).",
+        "isCorrect": true
+      },
+      {
+        "text": "அது அழகாக இருக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிதாக இருக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேவையில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாயும் ஞாயும் பாடல்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "12-ஆம் நூற்றாண்டில் மொழிபெயர்ப்புப் பணியில் தீவிரமாக ஈடுபட்ட 'மொழிபெயர்ப்பாளர்களின் மூதாதையர்' யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஜெரோட் ஆப் கிரோமனா",
+        "rationale": "டோலடோவில் பணியாற்றிய இவர் இவ்வாறு அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அடிலாட்",
+        "rationale": "இவர் தத்துவஞானி.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஹோமர்",
+        "rationale": "இவர் கவிஞர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிளேட்டோ",
+        "rationale": "இவர் தத்துவஞானி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஸ்பெயின் நாட்டில் பணிபுரிந்தார்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "மொழிபெயர்ப்பில் 'இயல்பான நடை' (Natural Style) ஏன் அவசியம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாசகன் மிரளாமல் இருக்க",
+        "rationale": "இது ஒரு மொழிபெயர்ப்பு என்று தோன்றாத வகையில் மூலமொழி நடையில் இல்லாமல் பெறுமொழி நடையில் இருக்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுத்தாளர் திறமை காட்ட",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடினமாக இருக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வித்தியாசமாக இருக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "படிப்பதற்கு மொழிபெயர்ப்பு போல இருக்கக் கூடாது."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'எட்டுத்திக்கும் கலைச்செல்வங்கள்' என்ற வரியின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாரதியார்",
+        "rationale": "மகாகவி பாரதியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாரதிதாசன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாமக்கல் கவிஞர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிமணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேசியக் கவி."
+  },
+  {
+    "questionNumber": 39,
+    "question": "மொழிபெயர்ப்பின் போது 'சொற்களை இட்டு நிரப்புவது' (Word filling) எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிறந்த மொழிபெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழி மாற்றுப் பணி",
+        "rationale": "இது உயிரோட்டமற்றது, வெறும் வார்த்தை மாற்றம் மட்டுமே.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆய்வுப் பணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதைப் பணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உள்ளாழத்தை உணர இயலாது."
+  },
+  {
+    "questionNumber": 40,
+    "question": "மொழிபெயர்ப்புத் துறையில் 'F.L. லூக்காஸ்' (Lucas) என்ன கூறினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்ல மொழிபெயர்ப்புகள் நம் காலத்தின் முக்கிய தேவை",
+        "rationale": "உலக அறிவுப் பரவலுக்கு இது அவசியம் என்று அவர் கூறினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மொழிபெயர்ப்புத் தேவையில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை மட்டும் போதும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயந்திர மொழிபெயர்ப்பு சிறந்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முக்கிய தேவைகளில் ஒன்று."
+  },
+  {
+    "questionNumber": 41,
+    "question": "மொழிபெயர்ப்பில் 'உருவகங்கள்' (Metaphors) அறிவியல் நூல்களில் பயன்படுமா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முற்றிலும் பயன்படாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவியல் மொழிக்கு முற்றிலும் அப்பாற்பட்டவையல்ல",
+        "rationale": "அறிவியல் கருத்துக்களை விளக்க உருவகங்கள் பயன்படலாம் (எ.கா: Tubelight).",
+        "isCorrect": true
+      },
+      {
+        "text": "கவிதைக்கு மட்டுமே உரியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவிர்க்க வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலையும் அறிவியலும் சந்திக்கும் இடம்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "'எட்வர்ட் பிட்ஸ்ஜெரால்ட்' (Edward Fitzgerald) யாரை ஆங்கிலத்தில் மொழிபெயர்த்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உமர்கய்யாம்",
+        "rationale": "உமர்கய்யாமின் 'ருபாயத்' பாடல்களை ஆங்கிலத்தில் மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாகூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வள்ளுவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிமணி இவரைப் பின்பற்றினார்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "சங்க இலக்கியத்தில் 'குறிஞ்சி' என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலை நிலம்",
+        "rationale": "மலையும் மலை சார்ந்த இடமும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வயல்",
+        "rationale": "மருதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காடு",
+        "rationale": "முல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "நெய்தல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முருகன் நிலம்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "மொழிபெயர்ப்பில் 'சுருக்கமான மொழிபெயர்ப்பு' (Abridgement) செய்வதன் நோக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கருத்தைச் சிதைக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூலநூலைப் படிக்கத் தூண்ட",
+        "rationale": "முழு நூலையும் படிக்க ஆர்வத்தைத் தூண்டுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காகிதத்தை மிச்சப்படுத்த",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்தாளரை அவமதிக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐன்ஸ்டீன் நூல் உதாரணம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "மொழிபெயர்ப்புத் துறையில் '1967' ஆம் ஆண்டு தமிழகத்தில் ஏன் முக்கியமானது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆட்சி மொழி ஆணையம் சட்ட மொழிபெயர்ப்பைத் தொடங்கியது",
+        "rationale": "மாநில ஆட்சிமொழி ஆணையம் மூலம் சட்டங்களைத் தமிழில் மொழிபெயர்க்கும் பணி தீவிரமானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உலகத் தமிழ் மாநாடு நடந்தது",
+        "rationale": "இது வேறு நிகழ்வு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள் மொழிபெயர்க்கப்பட்டது",
+        "rationale": "இது முன்பே நடந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரதியார் பிறந்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சட்டத் துறை வளர்ச்சி."
+  },
+  {
+    "questionNumber": 46,
+    "question": "மொழிபெயர்ப்பில் 'சொல்வளம்' (Vocabulary) ஏன் முக்கியம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருத்தமான சொற்களைத் தேர்வு செய்ய",
+        "rationale": "மூலச்சொல்லுக்கு இணையான சரியான சொல்லைத் தேர்ந்தெடுக்க சொல்வளம் அவசியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அதிகப் பக்கங்கள் எழுத",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமைக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குழப்பம் விளைவிக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Pump -> எக்கி."
+  },
+  {
+    "questionNumber": 47,
+    "question": "மொழிபெயர்ப்பில் 'மூலமொழியை' விட 'பெறுமொழி' வாசகனுக்கு முக்கியத்துவம் அளிப்பது ஏன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அவனுக்குப் புரிந்தால்தான் மொழிபெயர்ப்பு முழுமையடையும்",
+        "rationale": "மொழிபெயர்ப்பின் நோக்கமே கருத்துப் பரிமாற்றம்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவன் பணம் கொடுப்பான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூலமொழி முக்கியமில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழிபெயர்ப்பாளருக்கு வேலை எளிது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொடர்பாடல் முக்கியம்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "மொழிபெயர்ப்பில் 'உவமைகள்' (Similes) பயன்படுமா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கவிதையில் மட்டும் பயன்படும்",
+        "rationale": "அறிவியலிலும் பயன்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவியல் மற்றும் இலக்கியம் இரண்டிலும் பயன்படும்",
+        "rationale": "கருத்தை விளக்க அறிவியலிலும் உவமைகள் (எ.கா: Tubelight) பயன்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எதிலும் பயன்படாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சட்டத்தில் மட்டும் பயன்படும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விளக்கத்தை எளிமையாக்கும்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "மொழிபெயர்ப்பில் 'ஒலிநயம்' (Rhythm/Sound) எதில் முக்கியம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கவிதை மற்றும் மேடைப்பேச்சு",
+        "rationale": "கவிதையின் ஓசையும், மேடைப்பேச்சின் ஏற்ற இறக்கமும் மொழிபெயர்ப்பில் வந்தால் சிறப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறிவியல் நூல்",
+        "rationale": "இங்கு பொருள் முக்கியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சட்ட நூல்",
+        "rationale": "இங்கு துல்லியம் முக்கியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளம்பரம்",
+        "rationale": "இங்கு ஈர்ப்பு முக்கியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உணர்ச்சியை வெளிப்படுத்த உதவும்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "மொழிபெயர்ப்புத் துறையில் 'யூஜின் நைடா' (Eugene Nida) யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரு மொழிபெயர்ப்புக் கொள்கையாளர்",
+        "rationale": "நவீன மொழிபெயர்ப்புக் கோட்பாடுகளை வகுத்த முக்கிய அறிஞர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒரு கவிஞர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு நாவலாசிரியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு அரசியல்வாதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூன்று வகை மொழிபெயர்ப்புகளை வகுத்தவர்."
+  }
+]
