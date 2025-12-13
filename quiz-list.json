@@ -1,6 +1,6 @@
 [
   {
-    "category": "தமிழ்க் களஞ்சியம் 1",
+    "category": "தமிழ்க் களஞ்சியம்_ஆழ்நிலை 1",
     "quizzes": [
       { "file": "Mozhiyiyal_1.json", "title": "மொழியியல் 1" },
       { "file": "Nattupuraviyal_1.json", "title": "நாட்டுப்புறவியல் 1" },
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "category": "தமிழ்க் களஞ்சியம் 2",
+    "category": "தமிழ்க் களஞ்சியம்_ஆழ்நிலை 2",
     "quizzes": [
       { "file": "Mozhiyiyal_2.json", "title": "மொழியியல் 2" },
       { "file": "Nattupuraviyal_2.json", "title": "நாட்டுப்புறவியல் 2" },
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "category": "தமிழ்க் களஞ்சியம் 3",
+    "category": "தமிழ்க் களஞ்சியம்_ஆழ்நிலை 3",
     "quizzes": [
       { "file": "Mozhiyiyal_3.json", "title": "மொழியியல் 3" },
       { "file": "Nattupuraviyal_3.json", "title": "நாட்டுப்புறவியல் 3" },
@@ -40,4 +40,3 @@
   }
 
 ]
-
