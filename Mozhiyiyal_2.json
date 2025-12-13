@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "மொழியியலின் உட்கூறுகள் எவை?\n1. ஒலியனியல்\n2. உருபனியல்\n3. தொடரியல்\n4. ஜோதிடம்\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "மொழியியல் என்பது ஒலியனியல், உருபனியல், தொடரியல், பொருண்மையியல் போன்ற உட்பிரிவுகளைக் கொண்டது. ஜோதிடம் இதில் அடங்காது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "ஜோதிடம் மொழியியலின் பிரிவு அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "ஜோதிடம் மொழியியலின் பிரிவு அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "ஜோதிடம் தவறானது.", "isCorrect": false }
+    ],
+    "hint": "மொழியியல் என்பது மொழியின் அறிவியல் ஆய்வு."
+  },
+  {
+    "questionNumber": 2,
+    "question": "மனித மொழியின் சிறப்பியல்புகள் (Design Features) எவை?\n1. இருமை (Duality)\n2. விளைவாக்கம் (Productivity)\n3. இடுகுறித்தன்மை (Arbitrariness)\n4. நிலையான தன்மை (Fixedness)\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "ஹாக்கெட்டின் படி இருமை, விளைவாக்கம், இடுகுறித்தன்மை ஆகியவை மனித மொழியின் முக்கிய பண்புகள். நிலையான தன்மை அதன் பண்பல்ல, மொழி மாறும் தன்மை கொண்டது.", "isCorrect": true },
+      { "text": "2, 3, 4", "rationale": "நிலையான தன்மை தவறானது.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "நிலையான தன்மை தவறானது.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "நிலையான தன்மை தவறானது.", "isCorrect": false }
+    ],
+    "hint": "விலங்கு மொழியிலிருந்து மனித மொழியை வேறுபடுத்துபவை."
+  },
+  {
+    "questionNumber": 3,
+    "question": "ஒலியியலின் (Phonetics) பிரிவுகள் யாவை?\n1. ஒலிப்பியல் (Articulatory)\n2. ஒலியியக்கவியல் (Acoustic)\n3. ஒலியுணர்வியல் (Auditory)\n4. வரிவடிவியல் (Graphology)\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "ஒலியியல் என்பது ஒலிப்பு, இயக்கம், உணர்வு ஆகிய மூன்று நிலைகளில் ஆராயப்படுகிறது. வரிவடிவியல் எழுத்து பற்றியது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "வரிவடிவியல் ஒலியியலின் நேரடிப் பிரிவு அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "வரிவடிவியல் தவறானது.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "வரிவடிவியல் தவறானது.", "isCorrect": false }
+    ],
+    "hint": "பேச்சொலிகளை மட்டும் பற்றியது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "உயிரொலிகளின் (Vowels) பண்புகள் எவை?\n1. காற்று தடையின்றி வெளியேறும்.\n2. குரல்வளை அதிர்வுடன் (Voiced) பிறக்கும்.\n3. நாக்கின் உயரம் மற்றும் இதழ் குவிதல் அடிப்படையில் வகைப்படுத்தப்படும்.\n4. உராய்வுடன் பிறக்கும்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "உயிரொலிகள் தடையின்றியும் குரல்வளை அதிர்வுடனும் பிறக்கின்றன. உராய்வு மெய்யொலிகளுக்கு (உரசொலி) உரியது.", "isCorrect": true },
+      { "text": "2, 3, 4", "rationale": "உராய்வு உயிரொலிகளுக்கு உரியதல்ல.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "உராய்வு தவறானது.", "isCorrect": false },
+      { "text": "1, 2, 4", "rationale": "உராய்வு தவறானது.", "isCorrect": false }
+    ],
+    "hint": "அ, ஆ, இ போன்றவை."
+  },
+  {
+    "questionNumber": 5,
+    "question": "மெய்யொலிகளின் (Consonants) பண்புகள் எவை?\n1. காற்று தடைபட்டு வெளியேறும்.\n2. ஒலிப்பிடம் மற்றும் ஒலிப்புமுறை அடிப்படையில் வகைப்படுத்தப்படும்.\n3. குரலொலியாகவோ குரலிலா ஒலியாகவோ இருக்கலாம்.\n4. எப்போதும் தடையின்றி வெளியேறும்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "மெய்யொலிகள் முழுமையான அல்லது பகுதியளவு தடையுடன் பிறக்கின்றன. தடையின்றிப் பிறப்பவை உயிரொலிகள்.", "isCorrect": true },
+      { "text": "2, 3, 4", "rationale": "தடையின்றி வெளியேறுவது தவறு.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "தடையின்றி வெளியேறுவது தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறானது.", "isCorrect": false }
+    ],
+    "hint": "க், ச், ட் போன்றவை."
+  },
+  {
+    "questionNumber": 6,
+    "question": "தமிழ் மொழியின் ஒலி அமைப்பைப் பற்றிய சரியான கூற்றுகள் எவை?\n1. 12 உயிரெழுத்துகள் உள்ளன.\n2. 18 மெய்யெழுத்துகள் உள்ளன.\n3. ஆய்தம் ஒரு சார்பெழுத்து.\n4. வல்லினம், மெல்லினம், இடையினம் என மெய்கள் பிரிக்கப்படும்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அனைத்தும் சரி", "rationale": "தமிழ் இலக்கண மரபின்படி மேற்கண்ட அனைத்துக் கூற்றுகளும் சரியானவை.", "isCorrect": true },
+      { "text": "1, 2, 3", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false }
+    ],
+    "hint": "தொல்காப்பியம் மற்றும் நன்னூல் அடிப்படையில்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "ஒலியனியல் (Phonology) தொடர்பான சரியான கூற்றுகள் எவை?\n1. ஒலியன் (Phoneme) பொருள் வேறுபாட்டிற்குரியது.\n2. மாற்றொலிகள் (Allophones) துணைநிலை வருகையில் வரும்.\n3. சிறுமக் குறையிணைகள் (Minimal Pairs) ஒலியன்களைக் கண்டறிய உதவும்.\n4. மாற்றொலிகள் பொருள் வேறுபாட்டைத் தரும்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "ஒலியன் பொருள் வேறுபாட்டைத் தரும்; மாற்றொலிகள் சூழலுக்கு ஏற்ப மாறுபடுமே தவிர பொருள் வேறுபாட்டைத் தராது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "மாற்றொலிகள் பொருள் வேறுபாட்டைத் தராது.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "மாற்றொலிகள் பொருள் வேறுபாட்டைத் தராது.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறானது.", "isCorrect": false }
+    ],
+    "hint": "ஒலியன் என்பது abstract unit."
+  },
+  {
+    "questionNumber": 8,
+    "question": "நைடாவின் உருபன் கண்டறியும் விதிகளில் அடங்குபவை எவை?\n1. ஒரே வடிவமும் ஒரே பொருளும் கொண்டவை ஒரு உருபன்.\n2. சூழலால் மாறுபடும் வடிவங்கள் ஒரே உருபனின் மாற்றுருபுகள்.\n3. துணைநிலை வருகையில் வரும் வடிவங்கள் ஒரே உருபனாகலாம்.\n4. வெவ்வேறு பொருள் தரும் ஒரே வடிவங்கள் ஒரே உருபன்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "வெவ்வேறு பொருள் தரும் ஒரே வடிவங்கள் (எ.கா: படி - verb, படி - noun) வெவ்வேறு உருபன்களாகவே கருதப்படும். மற்றவை நைடாவின் விதிகள்.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கூற்று 4 நைடாவின் விதிக்கு முரணானது (Rule 5).", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கூற்று 4 தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Morphological Identification Principles."
+  },
+  {
+    "questionNumber": 9,
+    "question": "அண்மை உறுப்புப் பகுப்பாய்வின் (IC Analysis) பண்புகள் எவை?\n1. வாக்கியத்தைப் படிப்படியாக இரு கூறுகளாகப் பிரிப்பது.\n2. பதிலீடு முறையைப் (Substitution) பயன்படுத்துவது.\n3. தொடரா அண்மை உறுப்புகளை (Discontinuous constituents) விளக்குவது கடினம்.\n4. இது வரலாற்று மாற்றத்தை விளக்கும்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "IC Analysis இருமைப் பகுப்பு மற்றும் பதிலீட்டை அடிப்படையாகக் கொண்டது; தொடரா உறுப்புகளை விளக்குவது அதன் குறைபாடு. இது வரலாற்று ஆய்வு அல்ல.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "இது வரலாற்று ஆய்வு அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "இது வரலாற்று ஆய்வு அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "புளூம்ஃபீல்ட் போன்றவர்களால் வளர்க்கப்பட்டது."
+  },
+  {
+    "questionNumber": 10,
+    "question": "சாம்ஸ்கியின் ஆக்கமுறை மாற்றிலக்கணம் (Transformational Generative Grammar) எவற்றைக் கொண்டது?\n1. அறிதிறன் (Competence) மற்றும் செயல்திறன் (Performance).\n2. அக அமைப்பு (Deep Structure) மற்றும் புற அமைப்பு (Surface Structure).\n3. தொடரமைப்பு விதிகள் (Phrase Structure Rules).\n4. இது வாக்கியங்களை மனப்பாடம் செய்வதை ஆதரிக்கிறது.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "சாம்ஸ்கியின் கோட்பாடு மொழி கற்றலை விதிகளின் தொகுப்பாகக் கருதுகிறதே தவிர மனப்பாடம் செய்வதாகக் கருதவில்லை.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கூற்று 4 சாம்ஸ்கியின் கருத்துக்கு எதிரானது.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கூற்று 4 தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "1965 Aspects Model."
+  },
+  {
+    "questionNumber": 11,
+    "question": "சொற்பொருள் உறவுகள் (Sense Relations) எவை?\n1. ஒருபொருள் பன்மொழி (Synonymy)\n2. எதிர்பொழியம் (Antonymy)\n3. உள்ளடங்கு மொழி (Hyponymy)\n4. பல்பொருள் ஒருமொழி (Polysemy)\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அனைத்தும் சரி", "rationale": "இவை அனைத்தும் சொற்களுக்கு இடையிலான பொருண்மை உறவு முறைகள் ஆகும்.", "isCorrect": true },
+      { "text": "1, 2, 3", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false }
+    ],
+    "hint": "சொல்லின் அர்த்தம் சார்ந்த உறவுகள்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "கிளைமொழிகளின் (Dialects) வகைகள் எவை?\n1. வட்டாரக் கிளைமொழி (Regional Dialect)\n2. சமூகக் கிளைமொழி (Social Dialect)\n3. தனிநபர் பேச்சு வழக்கு (Idiolect)\n4. உலகப் பொதுமொழி (Universal Language)\nஇவற்றுள் மொழியியல் வகைப்பாட்டில் வருபவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "வட்டார மற்றும் சமூகக் கிளைமொழிகள் மற்றும் தனிநபர் வழக்கு ஆகியவை கிளைமொழியியலில் ஆராயப்படுகின்றன. உலகப் பொதுமொழி என்பது ஒரு லட்சியக் கருத்து.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கூற்று 4 கிளைமொழி வகைப்பாடு அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கூற்று 4 தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "இடம் மற்றும் சமூகம் சார்ந்தது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "வரலாற்று மொழியியல் (Historical Linguistics) எவற்றை ஆராய்கிறது?\n1. காலப்போக்கில் மொழியில் ஏற்படும் மாற்றங்கள்.\n2. ஒலி மாற்றம் மற்றும் இலக்கண மாற்றம்.\n3. ஒப்புமை ஆய்வு (Comparative Method) மூலம் மூல மொழியை அறிதல்.\n4. ஒரு காலக் கட்டத்தின் மொழியமைப்பு (Synchronic).\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "வரலாற்று மொழியியல் கால மாற்றத்தையும் ஒப்புமையையும் ஆயும். ஒரு காலக் கட்டத்தை மட்டும் ஆய்வது ஒருகால மொழியியல் (Synchronic).", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கூற்று 4 வரலாற்று மொழியியல் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கூற்று 4 தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Diachronic study."
+  },
+  {
+    "questionNumber": 14,
+    "question": "ஒலி மாற்றத்திற்கான காரணங்கள் அல்லது முறைகள் எவை?\n1. ஓரிடமாதல் (Assimilation)\n2. வேற்றிடமாதல் (Dissimilation)\n3. இடப்பெயர்வு (Metathesis)\n4. கடன் வாங்குதல் (Borrowing)\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அனைத்தும் சரி", "rationale": "இவை அனைத்தும் மொழியில் மாற்றங்கள் ஏற்படக் காரணமான வழிமுறைகள் மற்றும் செயல்முறைகள் ஆகும்.", "isCorrect": true },
+      { "text": "1, 2, 3", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false }
+    ],
+    "hint": "தசை -> சதை (இடப்பெயர்வு) போன்றவை."
+  },
+  {
+    "questionNumber": 15,
+    "question": "பயன்பாட்டு மொழியியலின் (Applied Linguistics) பிரிவுகள் எவை?\n1. மொழி கற்பித்தல்\n2. அகராதியியல்\n3. மொழிபெயர்ப்பு\n4. கோட்பாட்டு மொழியியல்\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "கோட்பாட்டு மொழியியல் (Theoretical Linguistics) என்பது அடிப்படை ஆய்வு. மற்றவை மொழியியல் அறிவைப் நடைமுறைக்குப் பயன்படுத்தும் துறைகள்.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கோட்பாட்டு மொழியியல் பயன்பாட்டுப் பிரிவு அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கோட்பாட்டு மொழியியல் தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கோட்பாட்டு மொழியியல் தவறு.", "isCorrect": false }
+    ],
+    "hint": "மொழியைச் சமூகத் தேவைகளுக்குப் பயன்படுத்துவது."
+  },
+  {
+    "questionNumber": 16,
+    "question": "பேச்சுறுப்புகள் (Organs of Speech) எவை?\n1. இதழ்கள்\n2. நாக்கு\n3. மெல்லண்ணம்\n4. காது\nஇவற்றுள் ஒலி எழுப்பப் பயன்படுபவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "இதழ், நாக்கு, அண்ணம் ஆகியவை ஒலி எழுப்பும் உறுப்புகள். காது ஒலி உணரும் உறுப்பு (Auditory), ஒலி எழுப்பும் உறுப்பு அல்ல.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "காது பேச்சுறுப்பு அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "காது பேச்சுறுப்பு அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "காது பேச்சுறுப்பு அல்ல.", "isCorrect": false }
+    ],
+    "hint": "Articulators."
+  },
+  {
+    "questionNumber": 17,
+    "question": "திராவிட மொழிக் குடும்பத்தைச் சேர்ந்த மொழிகள் எவை?\n1. தமிழ்\n2. தெலுங்கு\n3. கன்னடம்\n4. இந்தி\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "தமிழ், தெலுங்கு, கன்னடம் ஆகியவை திராவிட மொழிகள். இந்தி இந்தோ-ஆரிய மொழிக் குடும்பத்தைச் சார்ந்தது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "இந்தி திராவிட மொழி அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "இந்தி திராவிட மொழி அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "இந்தி தவறு.", "isCorrect": false }
+    ],
+    "hint": "தென்னிந்திய மொழிகள்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "ஒப்புமை ஆக்கம் (Analogy) பற்றிய சரியான கூற்றுகள் எவை?\n1. இது ஒரு மொழி மாற்றக் கருவி.\n2. விதிவிலக்குகளை நீக்கி ஒழுங்குபடுத்தும்.\n3. குழந்தைகள் மொழி கற்கும்போது இது நிகழும்.\n4. இது கடன் வாங்கும் முறையைக் குறிக்கும்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "ஒப்புமை ஆக்கம் என்பது ஏற்கனவே உள்ள வடிவத்தைப் பின்பற்றி புதிய வடிவத்தை உருவாக்குவது (எ.கா: 'செல்லினான்' என உருவாக்குவது). கடன் வாங்குதல் (Borrowing) வேறு.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கடன் வாங்குதல் ஒப்புமை ஆகாது.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கடன் வாங்குதல் ஒப்புமை ஆகாது.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Pattern based creation."
+  },
+  {
+    "questionNumber": 19,
+    "question": "தர்க்கப் பொருண்மையியலில் (Logical Semantics) வரும் உறவுகள் எவை?\n1. உட்படுத்தல் (Entailment)\n2. முரண் (Contradiction)\n3. நிகர்நிலை (Equivalence)\n4. எதுகை (Rhyme)\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "உட்படுத்தல், முரண், நிகர்நிலை ஆகியவை வாக்கியங்களுக்கிடையிலான தர்க்க உறவுகள். எதுகை என்பது யாப்பிலக்கணம் சார்ந்தது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "எதுகை தர்க்கவியல் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "எதுகை தர்க்கவியல் அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "எதுகை தவறு.", "isCorrect": false }
+    ],
+    "hint": "உண்மை நிலை (Truth conditions) பற்றியது."
+  },
+  {
+    "questionNumber": 20,
+    "question": "மொழித் திட்டமிடல் (Language Planning) எவற்றை உள்ளடக்கும்?\n1. ஆட்சி மொழித் தேர்வு.\n2. கலைச்சொல்லாக்கம்.\n3. எழுத்துச் சீர்திருத்தம்.\n4. கவிதை இயற்றுதல்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "மொழித் திட்டமிடல் என்பது மொழியின் பயன்பாட்டை மேம்படுத்த அரசு அல்லது அமைப்புகள் எடுக்கும் முடிவு. கவிதை இயற்றுதல் தனிநபர் படைப்பாற்றல்.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கவிதை இயற்றுதல் திட்டமிடலில் வராது.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கவிதை இயற்றுதல் திட்டமிடலில் வராது.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "அரசு சார் நடவடிக்கைகள்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "கணினி மொழியியலின் (Computational Linguistics) பயன்பாடுகள் எவை?\n1. இயந்திர மொழிபெயர்ப்பு (Machine Translation).\n2. பேச்சுணரி (Speech Recognition).\n3. இயற்கை மொழி ஆய்வு (NLP).\n4. கையெழுத்துப் பயிற்சி.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "கணினி மொழியியல் கணினியைப் பயன்படுத்தி மொழியை ஆய்வு செய்யும். கையெழுத்துப் பயிற்சி இதில் அடங்காது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கையெழுத்துப் பயிற்சி கணினி மொழியியல் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கையெழுத்துப் பயிற்சி கணினி மொழியியல் அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Artificial Intelligence தொடர்பானது."
+  },
+  {
+    "questionNumber": 22,
+    "question": "சமூக மொழியியல் (Sociolinguistics) எவற்றை ஆராய்கிறது?\n1. மொழிக்கும் சமூகத்திற்கும் உள்ள உறவு.\n2. சமூகக் கிளைமொழிகள்.\n3. இருமொழித்துவம் (Bilingualism).\n4. மூளையின் நரம்பு மண்டலம்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "சமூக மொழியியல் மொழியின் சமூகப் பயன்பாட்டை ஆராயும். நரம்பு மண்டலம் நரம்பியல் மொழியியலைச் (Neurolinguistics) சார்ந்தது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "மூளை ஆய்வு சமூக மொழியியல் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "மூளை ஆய்வு சமூக மொழியியல் அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "சமூகம் சார்ந்தது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "உருபனியல் (Morphology) பற்றிய சரியான கூற்றுகள் எவை?\n1. உருபன் என்பது மொழியின் மிகச்சிறிய பொருள் தரும் அலகு.\n2. ஒட்டுகள் (Affixes) கட்டுண்ட உருபன்கள்.\n3. 'மரம்' என்பது தனி உருபன்.\n4. உருபனியல் வாக்கிய அமைப்பை ஆராயும்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "உருபனியல் சொற்களின் அமைப்பை ஆராயும். வாக்கிய அமைப்பை ஆராய்வது தொடரியல் (Syntax).", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "வாக்கிய அமைப்பு தொடரியல் சார்ந்தது.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "வாக்கிய அமைப்பு தொடரியல் சார்ந்தது.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "சொல்லின் கட்டமைப்பு."
+  },
+  {
+    "questionNumber": 24,
+    "question": "ஒலியன்களின் அமைப்பொழுங்கு (Phonotactics) எதைக் குறிக்கிறது?\n1. மொழியில் ஒலிகள் சேரும் முறை.\n2. சொல் முதலில் வரும் எழுத்துகள்.\n3. மெய்மயக்கம்.\n4. சொற்பொருள்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "ஒலியன்களின் அமைப்பொழுங்கு ஒலிகளின் வரிசை முறையையும் விதிகளையும் (எந்த ஒலி எங்கு வரும்) விளக்கும். சொற்பொருள் பொருண்மையியல் சார்ந்தது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "சொற்பொருள் ஒலியனியல் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "சொற்பொருள் ஒலியனியல் அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Sound combinations."
+  },
+  {
+    "questionNumber": 25,
+    "question": "ஆக்கமுறை இலக்கணத்தின் (Generative Grammar) நோக்கங்கள் எவை?\n1. மொழியின் இலக்கண விதிகளை வெளிப்படையாகக் கூறுவது.\n2. முடிவற்ற வாக்கியங்களை உருவாக்கும் திறனை விளக்குவது.\n3. இலக்கணப் பிழையுள்ள வாக்கியங்களை நீக்குவது.\n4. கவிதைகளை மொழிபெயர்ப்பது.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "ஆக்கமுறை இலக்கணம் மொழியின் கட்டமைப்பையும் உற்பத்தித் திறனையும் விளக்குவதை நோக்கமாகக் கொண்டது. மொழிபெயர்ப்பு அதன் நேரடி நோக்கமல்ல.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "மொழிபெயர்ப்பு முதன்மை நோக்கமல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "மொழிபெயர்ப்பு முதன்மை நோக்கமல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Noam Chomsky."
+  },
+  {
+    "questionNumber": 26,
+    "question": "மாற்று விதிகள் (Transformation Rules) எவற்றைச் செய்யும்?\n1. நீக்கல் (Deletion).\n2. இடப்பெயர்வு (Permutation).\n3. செருகல் (Insertion).\n4. வரையறை (Definition).\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "மாற்று விதிகள் அக அமைப்பிலிருந்து புற அமைப்பை உருவாக்க நீக்கல், இடப்பெயர்வு, செருகல் போன்ற மாற்றங்களைச் செய்யும்.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "வரையறை மாற்று விதி அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "வரையறை மாற்று விதி அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "வாக்கிய அமைப்பை மாற்றியமைப்பது."
+  },
+  {
+    "questionNumber": 27,
+    "question": "தொடரமைப்பு விதிகளின் (Phrase Structure Rules) வடிவம் என்ன?\n1. வா -> பெதொ + விதொ\n2. பெதொ -> (அஅ) + பெ\n3. விரித்தெழுது விதிகள் (Rewrite rules)\n4. அகராதி விதிகள்\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "தொடரமைப்பு விதிகள் வாக்கியத்தை உறுப்புகளாகப் பிரித்து விரித்தெழுதும் விதிகள். அகராதி விதிகள் தனியானவை.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "அகராதி விதிகள் தொடரமைப்பு விதிகள் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "அகராதி விதிகள் தொடரமைப்பு விதிகள் அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "PS Rules."
+  },
+  {
+    "questionNumber": 28,
+    "question": "மொழியியலின் அடிப்படை அலகுகள் எவை?\n1. ஒலியன் (Phoneme)\n2. உருபன் (Morpheme)\n3. வாக்கியம் (Sentence)\n4. பத்தி (Paragraph)\nஇவற்றுள் மொழியியல் ஆய்வின் அடிப்படை நிலைகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "ஒலியன், உருபன், வாக்கியம் ஆகியவை மொழியியலின் அடிப்படை அலகுகள். பத்தி என்பது பனுவல் (Text) நிலையில் வருவது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "பத்தி அடிப்படை அலகு அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "பத்தி அடிப்படை அலகு அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Hierarchy of language."
+  },
+  {
+    "questionNumber": 29,
+    "question": "தமிழில் காணப்படும் ஒலி மாற்றங்கள் எவை?\n1. அண்ணமாக்கம் (Palatalization)\n2. மூக்கொலி ஆக்கம் (Nasalization)\n3. சுட்டு திரிதல்\n4. உயிரெழுத்து தோன்றல்\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அனைத்தும் சரி", "rationale": "தமிழில் வரலாற்று ரீதியாக இந்த அனைத்து ஒலி மாற்றங்களும் நிகழ்ந்துள்ளன (எ.கா: கெவி->செவி, வந்தான்->வந்தா).", "isCorrect": true },
+      { "text": "1, 2, 3", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false }
+    ],
+    "hint": "Historical changes."
+  },
+  {
+    "questionNumber": 30,
+    "question": "கூட்டாக்கம் (Compounding) பற்றிய சரியான கூற்றுகள் எவை?\n1. இரண்டு சொற்கள் இணைந்து புதிய சொல்லை உருவாக்குவது.\n2. பண்புத்தொகை, வினைத்தொகை போன்றவை இதில் அடங்கும்.\n3. இது உருபனியலின் ஒரு பகுதி.\n4. இது ஒலி மாற்றத்தை மட்டுமே குறிக்கும்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "கூட்டாக்கம் என்பது புதிய சொற்களை உருவாக்கும் உருபனியல் செயல்முறை. இது ஒலி மாற்றம் மட்டுமல்ல.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "இது ஒலி மாற்றம் மட்டுமல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "இது ஒலி மாற்றம் மட்டுமல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Word formation."
+  },
+  {
+    "questionNumber": 31,
+    "question": "தமிழிழும் மலையாளமும் பிரிந்ததைக் காட்டும் சான்றுகள் எவை?\n1. 'ஐ' > 'அ' மாற்றம் (மலை > மல).\n2. திணை, பால் விகுதிகள் இழப்பு.\n3. 'ந்' > 'ன்' மாற்றம்.\n4. ஆங்கிலச் சொற்கள் கலப்பு.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2", "rationale": "மலையாளம் தமிழிலிருந்து பிரியும்போது ஐகாரம் அகரமானதும், வினைமுற்றில் திணை பால் விகுதிகள் மறைந்ததும் முக்கிய மாற்றங்கள்.", "isCorrect": true },
+      { "text": "1, 3", "rationale": "குறிப்பிட்ட மாற்றங்கள் முக்கியம்.", "isCorrect": false },
+      { "text": "2, 4", "rationale": "ஆங்கிலக் கலப்பு பொதுவானது.", "isCorrect": false },
+      { "text": "3, 4", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "Comparative Linguistics evidence."
+  },
+  {
+    "questionNumber": 32,
+    "question": "இலக்கண வகைகளை (Grammatical Categories) எவற்றைக் கொண்டு விளக்கலாம்?\n1. திணை (Gender/Class)\n2. பால் (Gender)\n3. எண் (Number)\n4. இடம் (Person)\nஇவற்றுள் தமிழில் உள்ளவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அனைத்தும் சரி", "rationale": "தமிழ் இலக்கணத்தில் திணை, பால், எண், இடம் ஆகிய பாகுபாடுகள் உள்ளன.", "isCorrect": true },
+      { "text": "1, 2, 3", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false }
+    ],
+    "hint": "உயர்திணை, அஃறிணை போன்றவை."
+  },
+  {
+    "questionNumber": 33,
+    "question": "குறியீட்டியல் (Semiotics) எவற்றை உள்ளடக்கியது?\n1. மொழி.\n2. சைகை.\n3. போக்குவரத்து விளக்குகள்.\n4. குறியீடுகள் பற்றிய மொத்த ஆய்வு.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அனைத்தும் சரி", "rationale": "குறியீட்டியல் என்பது மொழி உட்பட அனைத்து வகைக் குறியீடுகளையும் ஆராயும் துறை.", "isCorrect": true },
+      { "text": "1, 2, 3", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "1, 2, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false }
+    ],
+    "hint": "Study of signs."
+  },
+  {
+    "questionNumber": 34,
+    "question": "பேச்சு மொழிக்கும் எழுத்து மொழிக்கும் உள்ள வேறுபாடுகள் (Diglossia in Tamil) எவை?\n1. வினைமுற்று வடிவங்கள் மாறுபடும் (வந்தான் - வந்துட்டான்).\n2. ஒலியியல் மாற்றங்கள் (பழம் - பளம்).\n3. சொற்கள் மாறுபடும் (இன்று - இன்னைக்கு).\n4. இரண்டும் ஒன்றுதான்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "தமிழில் பேச்சு வழக்கிற்கும் எழுத்து வழக்கிற்கும் இலக்கணம், ஒலி, சொல் நிலைகளில் வேறுபாடுகள் உள்ளன.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "இரண்டும் ஒன்றல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "இரண்டும் ஒன்றல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "செந்தமிழ் vs கொடுந்தமிழ்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "ஒலி மாற்றத்தில் 'இடப்பெயர்வு' (Metathesis) என்றால் என்ன என்பதற்குச் சரியான எடுத்துக்காட்டுகள் எவை?\n1. தசை -> சதை\n2. விசிறி -> சிவிறி\n3. குதிரை -> குருதை (சில வழக்குகளில்)\n4. மரம் -> மரங்கள்\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "இடப்பெயர்வு என்பது சொல்லில் உள்ள ஒலிகள் இடம் மாறுவது. 'மரம்->மரங்கள்' என்பது உருபனியல் மாற்றம்.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "மரங்கள் இடப்பெயர்வு அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "மரங்கள் இடப்பெயர்வு அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "மரங்கள் இடப்பெயர்வு அல்ல.", "isCorrect": false }
+    ],
+    "hint": "Sounds switching places."
+  },
+  {
+    "questionNumber": 36,
+    "question": "மாற்றுருபுகள் (Allomorphs) பற்றிச் சரியானவை எவை?\n1. ஒரே உருபனின் வெவ்வேறு வடிவங்கள்.\n2. சூழலுக்கு ஏற்ப மாறுபடுபவை.\n3. பொருள் வேறுபாடு தராதவை.\n4. பொருள் வேறுபாடு தருபவை.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "மாற்றுருபுகள் (எ.கா: இறந்தகாலம் 'த்', 'ட்') ஒரே பொருளைத் தரும், சூழலால் வடிவம் மாறும். பொருள் மாறினால் அது தனி உருபன்.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "பொருள் வேறுபாடு தராது.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "பொருள் வேறுபாடு தராது.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Complementary distribution."
+  },
+  {
+    "questionNumber": 37,
+    "question": "ஒரு மொழியின் 'சொற்களஞ்சியம்' (Lexicon) எவற்றைக் கொண்டது?\n1. மொழியின் அனைத்துச் சொற்கள்.\n2. சொற்களின் ஒலி வடிவம்.\n3. சொற்களின் பொருள்.\n4. வாக்கிய விதிகளின் தொகுப்பு.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "சொற்களஞ்சியம் என்பது சொற்கள் மற்றும் அவற்றின் பண்புகளின் தொகுப்பு. வாக்கிய விதிகள் இலக்கணத்தில் (Syntax) வரும்.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "வாக்கிய விதிகள் சொற்களஞ்சியம் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "வாக்கிய விதிகள் சொற்களஞ்சியம் அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Mental Dictionary."
+  },
+  {
+    "questionNumber": 38,
+    "question": "அண்மை உறுப்புப் பகுப்பாய்வின் (IC Analysis) குறைகள் எவை?\n1. தொடரா அண்மை உறுப்புகளை விளக்குவதில் சிக்கல்.\n2. வாக்கியங்களுக்கிடையிலான உறவைக் காட்டாது.\n3. இருமைப் பகுப்பு சில நேரங்களில் போதாது.\n4. இது சொற்களைப் பிரிக்கவே பயன்படாது.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "IC Analysis சொற்களைப் பிரிக்கப் பயன்படும், ஆனால் சிக்கலான உறவுகளை விளக்காது. கூற்று 4 தவறு.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கூற்று 4 தவறு.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கூற்று 4 தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Limitations of Structuralism."
+  },
+  {
+    "questionNumber": 39,
+    "question": "எழுத்தியல் (Graphology) எதை ஆராய்கிறது?\n1. ஒலியை எழுத்து வடிவமாக மாற்றுதல்.\n2. வரிவடிவங்களின் அமைப்பு.\n3. எழுத்துக்கூட்டல் மரபுகள்.\n4. பேச்சொலிகளின் இயற்பியல் பண்புகள்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "எழுத்தியல் என்பது எழுத்து மற்றும் வரிவடிவம் சார்ந்தது. ஒலியின் இயற்பியல் பண்பு ஒலியியக்கவியல் (Acoustics) சார்ந்தது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "ஒலியின் பண்பு எழுத்தியல் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "ஒலியின் பண்பு எழுத்தியல் அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Writing system."
+  },
+  {
+    "questionNumber": 40,
+    "question": "ஆக்கமுறை இலக்கணத்தில் 'அகராதி' (Lexicon) தரும் தகவல்கள் எவை?\n1. சொற்களின் ஒலி வடிவம்.\n2. சொற்களின் தொடரியல் பண்புகள் (எ.கா: [+பெயர்]).\n3. சொற்களின் பொருள்.\n4. வாக்கியங்களின் பட்டியல்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "அகராதி சொற்களைப் பற்றிய தகவல்களைத் தரும். அது வாக்கியங்களின் பட்டியல் அல்ல (இலக்கணம் வாக்கியங்களை உருவாக்கும்).", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "வாக்கிய பட்டியல் தவறு.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "வாக்கிய பட்டியல் தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Word properties."
+  },
+  {
+    "questionNumber": 41,
+    "question": "ஒரு மொழியின் 'வகைப்பாட்டியல்' (Typology) எதன் அடிப்படையில் அமையும்?\n1. மொழியின் அமைப்பு ஒற்றுமை (எ.கா: ஒட்டுமொழி).\n2. சொற்களின் வரிசை (SVO, SOV).\n3. இன உறவு (Genetic Relationship).\n4. புவியியல் இருப்பிடம்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2", "rationale": "வகைப்பாட்டியல் என்பது மொழிகளின் கட்டமைப்பு (Structure) மற்றும் சொல் வரிசை (Word Order) அடிப்படையில் அமைவது. இனம் மற்றும் இடம் சார்ந்தது அல்ல.", "isCorrect": true },
+      { "text": "1, 3", "rationale": "இன உறவு ஒப்புமை மொழியியல் சார்ந்தது.", "isCorrect": false },
+      { "text": "2, 4", "rationale": "புவியியல் இடம் கிளைமொழியியல் சார்ந்தது.", "isCorrect": false },
+      { "text": "3, 4", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "Structural classification."
+  },
+  {
+    "questionNumber": 42,
+    "question": "மொழியின் 'இடப்பெயர்ச்சி' (Displacement) பண்பு எவற்றைக் குறிக்கிறது?\n1. நிகழ்காலத்தில் இல்லாதவற்றைப் பேசுவது.\n2. இறந்தகாலம் மற்றும் எதிர்காலம் பற்றிப் பேசுவது.\n3. கண்ணெதிரே இல்லாத பொருட்களைப் பற்றிப் பேசுவது.\n4. இடத்தை விட்டு நகர்வது.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "இடப்பெயர்ச்சி என்பது காலம் மற்றும் இடத்தைக் கடந்து பேசும் திறன். பௌதிக நகர்வு அல்ல.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "நகர்வது அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "நகர்வது அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Time and Space independence."
+  },
+  {
+    "questionNumber": 43,
+    "question": "தொடரியல் (Syntax) எவற்றை விளக்கும்?\n1. வாக்கிய அமைப்பு.\n2. சொற்களின் வரிசை.\n3. சொற்றொடர்களின் உறவு.\n4. ஒலிகளின் உச்சரிப்பு.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "தொடரியல் வாக்கியக் கட்டமைப்பை விளக்கும். ஒலியின் உச்சரிப்பு ஒலிப்பியல் சார்ந்தது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "ஒலி உச்சரிப்பு தொடரியல் அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "ஒலி உச்சரிப்பு தொடரியல் அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Sentence structure."
+  },
+  {
+    "questionNumber": 44,
+    "question": "உள்ளடங்கு மொழி (Hyponymy) என்பதற்குச் சரியான எடுத்துக்காட்டுகள் எவை?\n1. விலங்கு - சிங்கம்.\n2. பூ - தாமரை.\n3. மரம் - ஆல்.\n4. சிவப்பு - பச்சை.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "முதல் மூன்றும் பொது-சிறப்பு உறவைக் காட்டுகின்றன (உள்ளடங்கு மொழி). சிவப்பு-பச்சை என்பது இணக்கமின்மை அல்லது முரண்.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "சிவப்பு-பச்சை ஹைப்போனிமி அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "சிவப்பு-பச்சை ஹைப்போனிமி அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Type-of relationship."
+  },
+  {
+    "questionNumber": 45,
+    "question": "மொழிக் குடும்பங்கள் (Language Families) பற்றிய சரியான இணைகள் எவை?\n1. தமிழ் - திராவிட மொழி.\n2. சமஸ்கிருதம் - இந்தோ-ஐரோப்பிய மொழி.\n3. ஆங்கிலம் - இந்தோ-ஐரோப்பிய மொழி.\n4. தெலுங்கு - இந்தோ-ஆரிய மொழி.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "தமிழ் திராவிட மொழி; சமஸ்கிருதம், ஆங்கிலம் இந்தோ-ஐரோப்பிய மொழிகள். தெலுங்கு திராவிட மொழி (இந்தோ-ஆரிய அல்ல).", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "தெலுங்கு இந்தோ-ஆரிய மொழி அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "தெலுங்கு இந்தோ-ஆரிய மொழி அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Language Classification."
+  },
+  {
+    "questionNumber": 46,
+    "question": "மொழியை ஆய்வு செய்யும் முறைகள் எவை?\n1. ஒருகால ஆய்வு (Synchronic).\n2. இருகால ஆய்வு / வரலாற்று ஆய்வு (Diachronic).\n3. ஒப்புமை ஆய்வு (Comparative).\n4. கணித ஆய்வு.\nஇவற்றுள் மொழியியலின் முதன்மை அணுகுமுறைகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "ஒருகால, இருகால மற்றும் ஒப்புமை ஆய்வுகள் மொழியியலின் அடிப்படை முறைகள். கணிதம் ஒரு கருவியாகப் பயன்படலாமே தவிர அதுவே மொழியியல் ஆய்வு முறை அல்ல.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "கணித ஆய்வு முதன்மை முறை அல்ல.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "கணித ஆய்வு முதன்மை முறை அல்ல.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Saussure's distinctions."
+  },
+  {
+    "questionNumber": 47,
+    "question": "அக மீட்டுருவாக்கம் (Internal Reconstruction) எதை அடிப்படையாகக் கொண்டது?\n1. ஒரே மொழியின் தரவுகள்.\n2. மொழியின் கிளைமொழி வேறுபாடுகள்.\n3. இலக்கியச் சான்றுகள்.\n4. வேற்று மொழிகளின் தரவுகள்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "அக மீட்டுருவாக்கம் என்பது ஒரு மொழிக்குள் உள்ள சான்றுகளைக் கொண்டே (கிளைமொழி, இலக்கியம்) அதன் பழைய வடிவத்தை அறிவது. வேற்று மொழித் தரவு புற மீட்டுருவாக்கத்திற்கு உரியது.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "வேற்று மொழித் தரவு கூடாது.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "வேற்று மொழித் தரவு கூடாது.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Internal evidence."
+  },
+  {
+    "questionNumber": 48,
+    "question": "பேச்சு மொழியின் இயல்புகள் எவை?\n1. தன்னிச்சையானது (Spontaneous).\n2. சூழல் சார்ந்தது.\n3. இலக்கண விதிகளை மீறலாம் (ஒலித் தேய்வு).\n4. திருத்த முடியாதது.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "பேச்சு மொழி தன்னிச்சையானது, சூழல் சார்ந்தது மற்றும் ஒலித் தேய்வு கொண்டது. ஆனால் திருத்திக் கொள்ளும் வாய்ப்பு (Feedback) உண்டு.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "திருத்த முடியும் (Self-correction).", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "திருத்த முடியும்.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Spoken vs Written."
+  },
+  {
+    "questionNumber": 49,
+    "question": "தமிழ் மொழியின் இலக்கணக் கூறுகள் எவை?\n1. பெயரெச்சம்.\n2. வினையெச்சம்.\n3. வேற்றுமை உருபுகள்.\n4. பிரதிபெயர் (Pronoun).\nஇவற்றுள் தமிழில் உள்ளவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அனைத்தும் சரி", "rationale": "தமிழ் மொழியில் பெயரெச்சம், வினையெச்சம், வேற்றுமை, பிரதிபெயர் (மூவிடப்பெயர்) ஆகிய அனைத்து இலக்கணக் கூறுகளும் உள்ளன.", "isCorrect": true },
+      { "text": "1, 2, 3", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false },
+      { "text": "1, 3, 4", "rationale": "அனைத்தும் சரி.", "isCorrect": false }
+    ],
+    "hint": "Tamil Grammar."
+  },
+  {
+    "questionNumber": 50,
+    "question": "மொழியியல் ஆய்வின் பயன்கள் எவை?\n1. மொழி கற்பித்தலை மேம்படுத்தல்.\n2. பேச்சுக்குறைபாடுகளை நீக்கல்.\n3. கணினி மொழித் தொழில்நுட்பம்.\n4. புதிய மதத்தை உருவாக்குதல்.\nஇவற்றுள் சரியானவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1, 2, 3", "rationale": "மொழியியல் கல்வி, மருத்துவம், தொழில்நுட்பம் ஆகியவற்றுக்குப் பயன்படும். மதம் உருவாக்குவது அதன் பணியல்ல.", "isCorrect": true },
+      { "text": "1, 2, 4", "rationale": "மதம் உருவாக்குவது தவறு.", "isCorrect": false },
+      { "text": "2, 3, 4", "rationale": "மதம் உருவாக்குவது தவறு.", "isCorrect": false },
+      { "text": "அனைத்தும் சரி", "rationale": "கூற்று 4 தவறு.", "isCorrect": false }
+    ],
+    "hint": "Applied Linguistics."
+  }
+]
