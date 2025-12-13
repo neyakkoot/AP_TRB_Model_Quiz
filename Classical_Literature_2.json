@@ -1,0 +1,1352 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தொல்காப்பியர் குறிப்பிடும் 'நூலின் இலக்கணம்' குறித்த கூற்றுகளுள் தவறானதைத் தேர்க.",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நூல் என்பது உரைக்கப் படுவது.",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நூல் என்பது சூத்திரங்களால் கோக்கப்படுவது.",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நூல் நான்கு வகைப்படும்.",
+        "rationale": "தொல்காப்பியர் நூலை 'முதல் நூல்', 'வழி நூல்' என இரண்டு வகையாகவே பகுக்கிறார். பிற்கால நன்னூலார் தான் 'சார்பு நூல்' சேர்த்து மூன்றாகக் கூறுவார். நான்கு என்பது தவறானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒத்த சூத்திரம் உரைப்பது நூல்.",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "எட்டுத்தொகை நூல்களுள் 'அகமும் புறமும்' கலந்த நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கலித்தொகை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிபாடல்",
+        "rationale": "பரிபாடல் மட்டுமே எட்டுத்தொகையில் அகப்பொருள் மற்றும் புறப்பொருள் (கடவுள் வாழ்த்து) ஆகிய இரண்டையும் உள்ளடக்கியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பதிற்றுப்பத்து",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐங்குறுநூறு",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "கீழ்க்கண்டவற்றுள் 'முல்லைத் திணைக்குரிய' சிறுபொழுது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாமம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வைகறை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "கார்காலமும் மாலைப் பொழுதும் முல்லைத் திணைக்குரிய பெரும்பொழுது மற்றும் சிறுபொழுதாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எற்பாடு",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "சிலப்பதிகாரத்தில் வரும் 'அரங்கேற்றுக் காதை' எத்தனையாவது காதையாக அமைந்துள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முதல் காதை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்றாம் காதை",
+        "rationale": "புகார்க்காண்டத்தில் மங்கல வாழ்த்துப் பாடல், மனையறம் படுத்த காதை ஆகியவற்றைத் தொடர்ந்து மூன்றாவதாக அமைவது அரங்கேற்றுக் காதை.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்தாம் காதை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழாம் காதை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "சைவத் திருமுறைகளில் 'பத்தாம் திருமுறை'யாகத் தொகுக்கப்பட்டுள்ள நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருவாசகம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமந்திரம்",
+        "rationale": "திருமூலர் இயற்றிய திருமந்திரம் பத்தாம் திருமுறையாகத் தொகுக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவிசைப்பா",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பெரியபுராணம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "கம்பராமாயணத்தில் 'சுந்தர காண்டம்' எத்தனையாவது காண்டமாக அமைந்துள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்காவது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்தாவது",
+        "rationale": "பால, அயோத்தியா, ஆரண்ய, கிட்கிந்தா காண்டங்களைத் தொடர்ந்து ஐந்தாவதாக அமைவது சுந்தர காண்டம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆறாவது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்றாவது",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "திராவிட மொழிக் குடும்பத்தில் 'நடுத் திராவிட மொழிகள்' பிரிவில் சேராத மொழி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெலுங்கு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கன்னடம்",
+        "rationale": "கன்னடம் தென் திராவிட மொழிப் பிரிவைச் சார்ந்தது. தெலுங்கு, கூவி, கோண்டா போன்றவை நடுத் திராவிட மொழிகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கூவி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கோண்டா",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "சிற்றிலக்கியங்களுள் ஒன்றான 'பரணி' இலக்கியம் பாடப்பெறும் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மன்னனின் கொடைச் சிறப்பு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "போரில் ஆயிரம் யானைகளைக் கொன்ற வீரனைப் புகழ்வது",
+        "rationale": "'ஆனை ஆயிரம் அமரிடை வென்ற மானவனுக்கு வகுப்பது பரணி' என்பது இலக்கணம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தலைவனின் காதல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நாட்டு வளம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "நன்னூல் கூறும் 'சார்பெழுத்துகள்' எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தொல்காப்பியர் 3 என்பார். நன்னூலார் உயிர்மெய், ஆய்தம், உயிரளபெடை, ஒற்றளபெடை, குற்றியலுகரம், குற்றியலிகரம், ஐகாரக்குறுக்கம், ஔகாரக்குறுக்கம், மகரக்குறுக்கம், ஆய்தக்குறுக்கம் என 10 வகையாகக் கூறுவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "தமிழ்நாட்டின் முதல் 'சமூக நாவல்' என்று போற்றப்படும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிரதாப முதலியார் சரித்திரம்",
+        "rationale": "மாயூரம் வேதநாயகம் பிள்ளை எழுதிய பிரதாப முதலியார் சரித்திரமே தமிழின் முதல் நாவலாகக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கமலாம்பாள் சரித்திரம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்மாவதி சரித்திரம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மோகனாங்கி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "தொல்காப்பியத்தில் 'மெய்ப்பாட்டியல்' எந்த அதிகாரத்தில் இடம்பெற்றுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்ததிகாரம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்லதிகாரம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருளதிகாரம்",
+        "rationale": "பொருளதிகாரத்தில்தான் அகத்திணை, புறத்திணை, களவு, கற்பு ஆகியவற்றுடன் மெய்ப்பாட்டியலும் இடம்பெற்றுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இவற்றுள் எதுவுமில்லை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "பத்துப்பாட்டில் 'ஆற்றுப்படை' நூல்கள் மொத்தம் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "திருமுருகாற்றுப்படை, பொருநராற்றுப்படை, சிறுபாணாற்றுப்படை, பெரும்பாணாற்றுப்படை, கூத்தராற்றுப்படை (மலைபடுகடாம்) ஆகிய ஐந்து நூல்கள் ஆற்றுப்படை நூல்களாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "தேம்பாவணி காப்பியத்தின்த் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இயேசு பெருமான்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சூசைலப்பர் (வளன்)",
+        "rationale": "வீரமாமுனிவர் இயற்றிய தேம்பாவணி, இயேசுவின் வளர்ப்புத் தந்தையான சூசைலப்பரை (யோசேப்பு) பாட்டுடைத் தலைவனாகக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாவீது அரசன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "அருளப்பர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "மனோன்மணீயம் நாடக நூல் எந்த ஆங்கில நூலைத் தழுவி எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "The Secret Way",
+        "rationale": "லிட்டன் பிரபு எழுதிய 'The Secret Way' என்னும் நூலைத் தழுவியே சுந்தரனார் மனோன்மணீயத்தை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "Merchant of Venice",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Hamlet",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "Tempest",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "உவமைக்கவிஞர் என்று அழைக்கப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாரதிதாசன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணதாசன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சுரதா",
+        "rationale": "சுப்புரத்தினதாசன் என்பதன் சுருக்கமான சுரதா, தனது கவிதைகளில் உவமைகளைச் சிறப்பாகக் கையாண்டதால் 'உவமைக்கவிஞர்' எனப் போற்றப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாணிதாசன்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "ஐஞ்சிறுகாப்பியங்களுள் சமண சமயம் சாராத நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாககுமார காவியம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "யசோதர காவியம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலகேசி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "இவற்றுள் எதுவுமில்லை",
+        "rationale": "ஐஞ்சிறுகாப்பியங்கள் (நாககுமார காவியம், உதயணகுமார காவியம், யசோதர காவியம், நீலகேசி, சூளாமணி) அனைத்துமே சமண சமய நூல்கள் ஆகும்.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "ஆழ்வார்களில் 'பெரியாழ்வார்' என்று அழைக்கப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விஷ்ணுசித்தர்",
+        "rationale": "விஷ்ணுசித்தர் என்பதே பெரியாழ்வாரின் இயற்பெயர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாறன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கலியன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கோதை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "'யாதும் ஊரே யாவரும் கேளிர்' என்ற புகழ்பெற்ற பாடல் வரி இடம்பெற்ற நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகநானூறு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "புறநானூறு",
+        "rationale": "கணியன் பூங்குன்றனார் பாடிய இப்பாடல் புறநானூற்றில் இடம்பெற்றுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நற்றிணை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "குறுந்தொகை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "தமிழ் எழுத்துக்களில் 'சுட்டெழுத்துக்கள்' எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அ, இ, உ",
+        "rationale": "அ, இ, உ ஆகிய மூன்றும் ஒரு பொருளைச் சுட்டிக் காட்டப் பயன்படுவதால் சுட்டெழுத்துக்கள் எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எ, ஏ, யா",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆ, ஈ, ஊ",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "க, ச, ட",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "தண்டியலங்காரம் கூறும் 'அணிகள்' எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "25",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "35",
+        "rationale": "தண்டியலங்காரம் பொருளணியியலில் 35 வகையான அணிகளைக் குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "சீவகசிந்தாமணியின் ஆசிரியர் திருத்தக்கதேவர் எந்தக் காலத்தைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 2ஆம் நூற்றாண்டு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 9ஆம் நூற்றாண்டு",
+        "rationale": "திருத்தக்கதேவர் கி.பி. 9ஆம் நூற்றாண்டைச் சேர்ந்த சமணத் துறவி ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 12ஆம் நூற்றாண்டு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 7ஆம் நூற்றாண்டு",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "தமிழில் தோன்றிய முதல் 'சிறுகதை' என்று கருதப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குளத்தங்கரை அரசமரம்",
+        "rationale": "வ.வே.சு. ஐயர் எழுதிய 'குளத்தங்கரை அரசமரம்' தமிழின் முதல் சிறுகதையாகக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மங்கையர்க்கரசியின் காதல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுளும் கந்தசாமி பிள்ளையும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "விழிப்பு",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "சொல்லின் செல்வர் என்று போற்றப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திரு.வி. கலியாணசுந்தரனார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ரா.பி. சேதுப்பிள்ளை",
+        "rationale": "ரா.பி. சேதுப்பிள்ளை தனது அடுக்குமொழிப் பேச்சாற்றலால் 'சொல்லின் செல்வர்' என அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மு. வரதராசனார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "அண்ணா",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "கீழ்க்கண்டவற்றுள் 'கடையெழு வள்ளல்களில்' இடம்பெறாதவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாரி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓரி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நள்ளி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "குமணன்",
+        "rationale": "குமணன் வள்ளல் தன்மையுடையவர் எனினும், அவர் கடையெழு வள்ளல்கள் பட்டியலில் (பேகன், பாரி, காரி, ஆய், அதியமான், நள்ளி, ஓரி) இடம்பெறவில்லை.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "நீதிநெறி விளக்கம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவப்பிரகாசர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "குமரகுருபரர்",
+        "rationale": "குமரகுருபரர் நீதிநெறி விளக்கம், கந்தர் கலிவெண்பா போன்ற நூல்களை இயற்றியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாயுமானவர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ராமலிங்க அடிகளார்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "அகநானூற்றில் 'களிற்றியானை நிரை'யில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "120",
+        "rationale": "அகநானூறு மூன்று பிரிவுகளைக் கொண்டது: களிற்றியானை நிரை (1-120), மணிமிடை பவளம் (121-300), நித்திலக் கோவை (301-400).",
+        "isCorrect": true
+      },
+      {
+        "text": "180",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "200",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "தொல்காப்பியர் கூறும் 'வனப்பு'கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "அம்மை, அழகு, தொன்மை, தோல், விருந்து, இயைபு, புலன், இழைபு என வனப்புகள் எட்டு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "பன்னிரு திருமுறைகளைத் தொகுத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேக்கிழார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நம்பியாண்டார் நம்பி",
+        "rationale": "இராஜராஜ சோழனின் வேண்டுகோளுக்கிணங்க நம்பியாண்டார் நம்பி முதல் 11 திருமுறைகளைத் தொகுத்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாதமுனிகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமூலர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "கிறித்தவக் காப்பியமான 'இரட்சணிய யாத்ரிகம்' யாரால் இயற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "எச்.ஏ. கிருட்டிணப் பிள்ளை",
+        "rationale": "ஜான் பன்யன் எழுதிய பில்கிரிம்ஸ் ப்ராக்ரஸ் நூலைத் தழுவி எச்.ஏ. கிருட்டிணப் பிள்ளை இதனை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேதநாயகம் சாஸ்திரியார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்டுவெல்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "சிந்துக்குத் தந்தை என்று பாராட்டப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அண்ணாமலையார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரதியார்",
+        "rationale": "பாரதியார் காவடிச் சிந்து போன்ற வடிவங்களைப் போற்றியதாலும், புதிய சந்தங்களை உருவாக்கியதாலும் 'சிந்துக்குத் தந்தை' எனப் போற்றப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சென்னிகுளம் அண்ணாமலையார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சுத்தானந்த பாரதியார்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "நற்றிணை நூலைத் தொகுப்பித்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உப்பூரிக்குடி கிழார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னாடு தந்த பாண்டியன் மாறன் வழுதி",
+        "rationale": "நற்றிணையைத் தொகுப்பித்தவர் பன்னாடு தந்த பாண்டியன் மாறன் வழுதி ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூரிக்கோ",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "உக்கிரப்பெருவழுதி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "தமிழ் விடு தூது நூலில் அமைந்துள்ள கண்ணிகளின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "268",
+        "rationale": "தமிழ் விடு தூது 268 கண்ணிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "300",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "புதுக்கவிதையின் முன்னோடி என்று கருதப்படுபவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாரதியார்",
+        "rationale": "வசன கவிதை மூலம் புதுக்கவிதைக்கு வித்திட்டவர் பாரதியார். இருப்பினும் 'எழுத்து' காலத்தில்தான் அது முழு வடிவம் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ந. பிச்சமூர்த்தி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சி.சு. செல்லப்பா",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வல்லிக்கண்ணன்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "திராவிட மொழிகளின் ஒப்பிலக்கணம் என்ற நூலை எழுதியவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஜி.யு. போப்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்டுவெல்",
+        "rationale": "1856-ல் கால்டுவெல் 'திராவிட மொழிகளின் ஒப்பிலக்கணம்' என்ற நூலை வெளியிட்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சீகன் பால்கு",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "பதினெண்கீழ்க்கணக்கு நூல்களுள் 'மருந்து' பெயரில் அமைந்த நூல்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குறள், நாலடியார், இன்னா நாற்பது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "திரிகடுகம், சிறுபஞ்சமூலம், ஏலாதி",
+        "rationale": "இம்மூன்று நூல்களின் பெயர்களும் மருந்துப் பொருட்களால் ஆனவை. இவை மனிதனின் உடல் நோயைப்போக்காமல், உள்ள நோயைப் போக்குகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசாரக்கோவை, பழமொழி, முன்றுறையரையனார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கார் நாற்பது, களவழி நாற்பது, இன்னா நாற்பது",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "சைவ சித்தாந்த சாத்திரங்கள் மொத்தம் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "12",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "14",
+        "rationale": "சிவஞான போதம், சிவஞான சித்தியார் உள்ளிட்ட 14 நூல்கள் மெய்கண்ட சாத்திரங்கள் அல்லது சைவ சித்தாந்த சாத்திரங்கள் எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "63",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "கலிங்கத்துப்பரணியின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒட்டக்கூத்தர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஜெயங்கொண்டார்",
+        "rationale": "முதலாம் குலோத்துங்க சோழனின் அவைப்புலவரான ஜெயங்கொண்டார் கலிங்கத்துப்பரணியை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழேந்தி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "பரிதிமாற் கலைஞர் என்று தனது பெயரை மாற்றிக்கொண்டவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மறைமலை அடிகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வி.கோ. சூரியநாராயண சாஸ்திரி",
+        "rationale": "வடமொழிப் பெயரான சூரியநாராயண சாஸ்திரி என்பதைத் தனித்தமிழில் 'பரிதிமாற் கலைஞர்' என மாற்றிக்கொண்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உ.வே. சாமிநாதையர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "திரு.வி.க",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "இஸ்லாமியத் தாயுமானவர் என்று அழைக்கப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உமறுப்புலவர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "குணங்குடி மஸ்தான் சாகிபு",
+        "rationale": "தாயுமானவரின் பாடல்களைப் போலவே பராபரக்கண்ணி, எக்காலக்கண்ணி பாடியதால் குணங்குடி மஸ்தான் சாகிபு இவ்வாறு அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செய்குதம்பி பாவலர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "காசிம் புலவர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "நாட்டுப்புறப் பாடல்களைத் தொகுத்து 'மலை அருவி' என்ற பெயரில் வெளியிட்டவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.வா. ஜெகந்நாதன்",
+        "rationale": "கி.வா.ஜ அவர்கள் வாய்மொழி இலக்கியமான நாட்டுப்புறப் பாடல்களைத் தொகுத்து நூலாக்கினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நா. வானமாமலை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "அன்னகாமு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பெ. தூரன்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "யாப்பிலக்கணத்தின் அடிப்படையில் 'பா' எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "வெண்பா, ஆசிரியப்பா, கலிப்பா, வஞ்சிப்பா என பா நான்கு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "மூவேந்தர்களைப் பற்றிப் பாடும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்தொள்ளாயிரம்",
+        "rationale": "சேர, சோழ, பாண்டிய மன்னர்களைப் பற்றி தலா 300 பாடல்களாக மொத்தம் 900 பாடல்களைக் கொண்ட நூல் முத்தொள்ளாயிரம் (ஆனால் தற்போது 108 பாடல்களே கிடைத்துள்ளன).",
+        "isCorrect": true
+      },
+      {
+        "text": "நந்திக்கலம்பகம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பாண்டிக்கோவை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மூவருலா",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "சங்க காலத்தில் 'நெய்தல்' நிலத்திற்குரிய தொழில் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிரை மேய்த்தல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன் பிடித்தல், உப்பு விளைவித்தல்",
+        "rationale": "கடலும் கடல் சார்ந்த இடமுமான நெய்தல் நில மக்களின் தொழில் மீன் பிடித்தலும், உப்பு விளைவித்தலும் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேன் எடுத்தல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏர் உழுதல்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "'செப்பு மொழி' என்று அழைக்கப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா",
+        "rationale": "செப்பலோசை உடையது வெண்பா. எனவே அது செப்பு மொழி அல்லது அறம் பாடும் பா எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சிப்பா",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "இரட்டைக் காப்பியங்கள் என்று அழைக்கப்படுபவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ராமாயணம் - மகாபாரதம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம் - மணிமேகலை",
+        "rationale": "கதைக்களத்தாலும், காலத்தாலும், கதாபாத்திரங்களாலும் ஒன்றோடு ஒன்று தொடர்புடையதால் இவை இரட்டைக் காப்பியங்கள் எனப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "குண்டலகேசி - நீலகேசி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வளையாபதி - குண்டலகேசி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "திருக்குறளுக்கு உரை எழுதியவர்களுள் 'பரிமேலழகர்' எத்தனையாவது உரையாசிரியர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முதல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்தாவது",
+        "rationale": "பதின்மர் உரையில் காலத்தால் பிந்தியவர் மற்றும் சிறந்த உரை எழுதியவராகக் கருதப்படுபவர் பரிமேலழகர் (பத்தாவது நபர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்தாவது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டாவது",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "தமிழ் நாடகத் தந்தை என்று போற்றப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சங்கரதாஸ் சுவாமிகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பம்மல் சம்பந்த முதலியார்",
+        "rationale": "தமிழ் நாடகக்கலையைத் தனது நாடகங்கள் மற்றும் உரைநடை நூல்கள் மூலம் வளர்த்ததால் இவர் தமிழ் நாடகத் தந்தை எனப் போற்றப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "டி.கே. சண்முகம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "என்.எஸ். கிருஷ்ணன்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "மொழிஞாயிறு என்று அழைக்கப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தேவநேயப் பாவாணர்",
+        "rationale": "தமிழிசை இயக்கம் மற்றும் தனித்தமிழ் இயக்கத்தில் பங்காற்றியமைக்காகவும், சொல்லாராய்ச்சிக்காகவும் பாவாணர் 'மொழிஞாயிறு' என அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருஞ்சித்திரனார்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மறைமலை அடிகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "திரு.வி.க",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "கலித்தொகையில் 'நெய்தல் கலி'யைப் பாடியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருங்கடுங்கோ",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "கலித்தொகையைத் தொகுத்தவரும், நெய்தல் கலியைப் பாடியவரும் நல்லந்துவனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மருதன் இளநாகனார்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "குறுந்தொகையின் அடிவரையறை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3 அடி முதல் 6 அடி வரை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "4 அடி முதல் 8 அடி வரை",
+        "rationale": "குறுந்தொகை குறைந்தபட்சம் 4 அடிகளையும் அதிகபட்சம் 8 அடிகளையும் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "9 அடி முதல் 12 அடி வரை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "13 அடி முதல் 31 அடி வரை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  }
+]
