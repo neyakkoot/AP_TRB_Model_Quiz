@@ -11,11 +11,30 @@
   try {
     const res = await fetch('quiz-list.json', { cache: 'no-cache' });
     const list = await res.json();
-    document.getElementById('quizCount').textContent = list.length;
-    const lastMod = res.headers.get('Last-Modified');
-    const date = lastMod ? new Date(lastMod) : new Date();
-    const fmt = date.toLocaleDateString('ta-IN', { day:'numeric', month:'long', year:'numeric', hour:'2-digit', minute:'2-digit' });
+    
+    // 1. வினாடி-வினா தொகுப்புகளின் எண்ணிக்கையைச் சரியாகக் கணக்கிடுதல்
+    let count = 0;
+    if (Array.isArray(list)) {
+        // ஒருவேளை உங்கள் json பிரிவுகளாக (Categories) இருந்தால்
+        list.forEach(cat => {
+            if (cat.quizzes) count += cat.quizzes.length;
+            else count++;
+        });
+    }
+    document.getElementById('quizCount').textContent = count;
+
+    // 2. தேதியைப் புதுப்பித்தல் - சர்வர் தேதியை நம்பாமல் தற்போதைய நேரத்தை எடுத்தல்
+    const date = new Date(); // இன்றைய தேதியை எடுக்கிறது
+    const fmt = date.toLocaleDateString('ta-IN', { 
+        day:'numeric', 
+        month:'long', 
+        year:'numeric', 
+        hour:'2-digit', 
+        minute:'2-digit',
+        hour12: true 
+    });
     document.getElementById('tq-lastupdate').textContent = fmt;
+    
   } catch(e) {
     document.getElementById('tq-lastupdate').textContent = "தகவல் இல்லை";
     document.getElementById('quizCount').textContent = "—";
@@ -23,6 +42,7 @@
 
   document.getElementById('tq-refresh').onclick = ()=>location.reload();
 
+  // மதிப்பெண் சேமிக்கும் பகுதி (Existing Logic)
   window.saveScore = function(file, score, total, title){
     const rec = { file, title, score, total, pct: ((score/total)*100).toFixed(1), ts: new Date().toISOString() };
     const arr = JSON.parse(localStorage.getItem('quizScores') || '[]');
@@ -35,11 +55,11 @@
     let html = `<h3>📊 என் முயற்சிகள்</h3>`;
     if(arr.length===0){ html += "<p>இன்னும் முயற்சிகள் இல்லை.</p>"; }
     else {
-      html += `<table border='1' cellspacing='0' cellpadding='5' style='margin:auto;font-size:0.9rem;border-collapse:collapse;'><tr><th>தொகுப்பு</th><th>மதிப்பெண்</th><th>சதவீதம்</th><th>நேரம்</th></tr>`;
+      html += `<table border='1' cellspacing='0' cellpadding='5' style='margin:auto;font-size:0.9rem;border-collapse:collapse;width:100%;text-align:left;'><tr><th>தொகுப்பு</th><th>மதிப்பெண்</th><th>சதவீதம்</th><th>நேரம்</th></tr>`;
       arr.forEach(r=>{ html += `<tr><td>${r.title}</td><td>${r.score}/${r.total}</td><td>${r.pct}%</td><td>${new Date(r.ts).toLocaleString('ta-IN')}</td></tr>`; });
       html += `</table>`;
     }
-    const w = window.open("", "_blank", "width=300,height=300");
-    w.document.write(`<html><head><title>என் முயற்சிகள்</title></head><body style='font-family:Noto Sans Tamil,sans-serif;'>${html}</body></html>`);
+    const w = window.open("", "_blank", "width=600,height=400");
+    w.document.write(`<html><head><title>என் முயற்சிகள்</title><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil&display=swap" rel="stylesheet"></head><body style='font-family:Noto Sans Tamil,sans-serif;padding:20px;'>${html}</body></html>`);
   };
 })();
