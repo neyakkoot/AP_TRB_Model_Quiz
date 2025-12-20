@@ -12,11 +12,11 @@
     margin: 0;
     background: #f5f7fb;
     color: #222;
-    padding-bottom: 70px; /* நிலையான அடிக்குறிப்பிற்கு இடம் */
+    padding-bottom: 70px; 
   }
   .hidden { display: none !important; }
   
-  /* Header சுருக்கப்பட்டது */
+  /* Header Styles */
   .header {
     display: flex;
     align-items: center;
@@ -30,7 +30,7 @@
   .header p { margin: 2px 0 0; font-size: 0.85rem; text-align: center; }
   .header img { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; border: 1px solid #fff; }
 
-  /* Dashboard மேம்படுத்தப்பட்டது */
+  /* Dashboard Styles */
   #dashboard-container {
     max-width: 1000px;
     margin: 10px auto;
@@ -56,7 +56,7 @@
   .stat-card h4 { margin: 0 0 5px 0; color: #555; font-size: 0.85rem; }
   .stat-card p { margin: 0; font-size: 1.1rem; font-weight: 700; color: #007bff; }
 
-  /* வினாப் பகுதிக்கு அதிக இடம் */
+  /* Quiz Area Styles */
   #tv-quiz-wrap {
     max-width: 1000px;
     margin: 10px auto;
@@ -68,7 +68,42 @@
   }
   @media (max-width: 900px) { #tv-quiz-wrap { grid-template-columns: 1fr; } }
 
-  /* நிலையான அடிக்குறிப்பு பொத்தான்கள் */
+  /* 👑 பாப்-அப் (Modal) பாணி 👑 */
+  .modal {
+    display: none; 
+    position: fixed; 
+    z-index: 3000; 
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0,0,0,0.6); 
+    backdrop-filter: blur(3px);
+  }
+  .modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 25px;
+    border-radius: 15px;
+    width: 85%;
+    max-width: 450px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    animation: modalBounce 0.4s ease;
+  }
+  @keyframes modalBounce {
+    0% { transform: scale(0.5); opacity: 0; }
+    70% { transform: scale(1.05); opacity: 1; }
+    100% { transform: scale(1); }
+  }
+  .modal-header { font-size: 1.6rem; margin-bottom: 12px; font-weight: bold; }
+  .modal-body { font-size: 1.1rem; margin-bottom: 25px; line-height: 1.6; color: #333; }
+  .modal-close-btn {
+    background: linear-gradient(90deg, #007bff, #00b894);
+    color: white; padding: 12px 30px;
+    border: none; border-radius: 30px;
+    cursor: pointer; font-weight: bold; font-size: 1rem;
+  }
+
+  /* Fixed Footer Styles */
   #fixed-footer-nav {
     position: fixed;
     bottom: 0;
@@ -97,9 +132,15 @@
   #tv-prev { background: #ff9800; }
   #tv-next { background: #007bff; }
 
-  /* மற்றவை */
+  /* Misc Styles */
   #tv-side { font-size: 0.85rem; padding: 10px; background: #f5fcf8; border-radius: 10px; }
   #tv-question { font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; }
+  .option-btn {
+    display: block; width: 100%; text-align: left; padding: 12px; margin-bottom: 8px;
+    border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9; cursor: pointer;
+  }
+  .option-btn.correct { background: #e6f7e9; border-color: #28a745; }
+  .option-btn.wrong { background: #fdecea; border-color: #dc3545; }
 </style>
 </head>
 <body>
@@ -151,7 +192,7 @@
         <div id="tv-progress"></div>
         <div id="tv-question"></div>
         <div id="tv-options"></div>
-        <div id="tv-feedback"></div>
+        <div id="tv-feedback" style="display:none; margin-top:10px; padding:10px; background:#f9f9f9; border-radius:8px;"></div>
         <div id="tv-results" class="hidden">
             <h2 id="tv-result-title">🎉 வாழ்த்துக்கள்!</h2>
             <p id="tv-result-score"></p>
@@ -166,6 +207,16 @@
         <div id="tv-timer-box" style="display:none;">
           <h4>⏰ நேரம்: <span id="tv-timer-display">00:00</span></h4>
         </div>
+        <h2>👨‍💻 உருவாக்குநர்</h2>
+        <p>முனைவர் சத்தியராசு தங்கச்சாமி</p>
+      </div>
+    </div>
+
+    <div id="quiz-modal" class="modal">
+      <div class="modal-content">
+        <div id="modal-header" class="modal-header"></div>
+        <div id="modal-body" class="modal-body"></div>
+        <button class="modal-close-btn" onclick="closeModal()">சரி, அடுத்து செல்க</button>
       </div>
     </div>
 
@@ -178,33 +229,24 @@
   </main>
 
   <script>
-    // வினாடி-வினா தொகுப்பு விவரங்களை தானாகப் புதுப்பிக்கும் செயல்பாடு
     async function updateQuizStats() {
       try {
         const res = await fetch("quiz-list.json", { cache: "no-cache" });
         const list = await res.json();
-        
         let count = 0;
         list.forEach(cat => count += cat.quizzes.length);
-        
         document.getElementById('total-quiz-count').textContent = count;
-        
-        // தற்போதைய நேரத்தை "கடைசியாகப் புதுப்பிக்கப்பட்டது" எனக் காட்டுகிறது
         const now = new Date();
         const options = { day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' };
         document.getElementById('last-updated-time').textContent = now.toLocaleDateString('ta-IN', options);
-      } catch (e) {
-        console.error("Stats update error", e);
-      }
+      } catch (e) { console.error(e); }
     }
 
-    // உள்நுழைவு மற்றும் Dashboard தரவுகளை ஏற்றும் செயல்பாடுகள் உங்கள் பழைய கோப்பில் உள்ளபடியே இருக்கும்
-    // startQuizTimer தொடங்கும் போது fixed-footer-nav ஐக் காட்டவும்:
-    function showFooter() { document.getElementById('fixed-footer-nav').classList.remove('hidden'); }
+    function closeModal() { document.getElementById('quiz-modal').style.display = 'none'; }
 
     document.addEventListener('DOMContentLoaded', () => {
       updateQuizStats();
-      // உங்கள் இதர checkLogin() செயல்பாடுகள்...
+      // Login/Dashboard logic remains same as per your index(3).html
     });
   </script>
   <script src="js/quiz-loader.js"></script>
