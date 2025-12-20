@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const optsEl = document.getElementById("tv-options");
   const feedbackEl = document.getElementById("tv-feedback");
   const resultsEl = document.getElementById("tv-results");
+  
+  // 🔹 புதிய index.html அமைப்பில் உள்ள பொத்தான்களைக் கண்டறிதல்
   const prevBtn = document.getElementById("tv-prev");
   const nextBtn = document.getElementById("tv-next");
 
@@ -15,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     noteEl.id = "tv-note";
     noteEl.setAttribute("role", "status");
     noteEl.style.marginTop = "0.5rem";
+    // இதர கூறுகளைச் சுற்றி அமைத்தல்
     if (resultsEl && resultsEl.parentNode) {
       resultsEl.parentNode.insertBefore(noteEl, resultsEl.nextSibling);
     } else {
@@ -25,15 +28,6 @@ document.addEventListener("DOMContentLoaded", function () {
          document.body.appendChild(noteEl);
       }
     }
-    console.warn("tv-note not found — created fallback element.");
-  }
-
-  if (!quizSelect || !progressEl || !qEl || !optsEl || !feedbackEl || !resultsEl || !prevBtn || !nextBtn) {
-    console.error("Required UI element missing:", {
-      quizSelect, progressEl, qEl, optsEl, feedbackEl, resultsEl, prevBtn, nextBtn
-    });
-    if (progressEl) progressEl.textContent = "⚠️ UI elements இல்லை — பக்கம் சரிபார்க்கவும்.";
-    return;
   }
 
   let quizData = [];
@@ -41,187 +35,127 @@ document.addEventListener("DOMContentLoaded", function () {
   let score = 0;
   let currentQuizTitle = '';
 
-  // 🔹 Load quiz list (Categorized)
+  // 🔹 வினாடி-வினா பட்டியலை ஏற்றுதல்
   async function loadQuizList() {
     try {
       const res = await fetch("quiz-list.json", { cache: "no-cache" });
       if (!res.ok) throw new Error("quiz-list.json not found");
-      
       const list = await res.json(); 
 
       list.forEach(categoryItem => {
         const optGroup = document.createElement("optgroup");
         optGroup.label = categoryItem.category; 
-
         categoryItem.quizzes.forEach(quizItem => {
           const opt = document.createElement("option");
           opt.value = quizItem.file;
           opt.textContent = quizItem.title;
           optGroup.appendChild(opt);
         });
-        
         quizSelect.appendChild(optGroup);
       });
+      
+      // index.html இல் உள்ள புள்ளிவிவரங்களைப் புதுப்பித்தல்
+      if (typeof updateQuizStats === 'function') updateQuizStats();
 
-      console.log("✅ Categorized quiz list loaded");
     } catch (err) {
-      console.error("❌ Error loading quiz list:", err);
-      progressEl.textContent = "⚠️ மேம்படுத்தாத காரணத்தால் வினாடி–வினா பட்டியலை ஏற்ற முடியவில்லை! உருவாக்குநர் விரைந்து அதனைச் செய்வார். எனவே தாங்கள் பிறவற்றைத் தெரிவுசெய்து அறிவைச் சோதியுங்கள்.";
+      console.error("Error loading quiz list:", err);
+      progressEl.textContent = "⚠️ வினாடி–வினா பட்டியலை ஏற்ற முடியவில்லை!";
     }
   }
 
-
-  // 🔹 Load quiz questions
+  // 🔹 வினாக்களை ஏற்றுதல் (Shuffle Questions & Reset)
   async function loadQuiz(file) {
     try {
       const res = await fetch(file, { cache: "no-cache" });
-      if (!res.ok) throw new Error(`${file} not found`);
       const data = await res.json();
       quizData = data.questions || data;
-      if (!quizData || !quizData.length) throw new Error("No questions found");
+
+      // 👑 வினாக்களைச் சீரற்ற முறையில் வரிசைப்படுத்துதல்
+      quizData.sort(() => Math.random() - 0.5);
 
       quizData.forEach(q => {
-        q.userChoice = undefined; 
+        q.userChoice = undefined;
+        q.shuffledOptions = undefined; // விடைகளைச் சீரமைக்கத் தயார் செய்தல்
       });
 
       currentQuizTitle = quizSelect.options[quizSelect.selectedIndex].text;
-
-      if (typeof startQuizTimer === 'function') {
-        startQuizTimer(quizData.length);
-      } else {
-        console.warn("startQuizTimer function not found. Is index.html updated?");
-      }
+      if (typeof startQuizTimer === 'function') startQuizTimer(quizData.length);
 
       idx = 0;
       score = 0;
-      
-      const customResults = document.getElementById("tv-results");
-      if (customResults) customResults.style.display = "none";
-      document.getElementById('tv-progress').style.display = 'block';
-      document.getElementById('tv-question').style.display = 'block';
-      document.getElementById('tv-options').innerHTML = '';
-
       renderQuestion();
-      console.log(`📘 Quiz loaded: ${file}`);
-
     } catch (err) {
-      console.error("Quiz load error:", err);
-      progressEl.textContent = "⚠️ வினாக்களை ஏற்ற முடியவில்லை: " + err.message;
+      progressEl.textContent = "⚠️ வினாக்களை ஏற்ற முடியவில்லை.";
     }
   }
 
-  // 🔹 Render question
+  // 🔹 வினா மற்றும் விடைகளைத் திரையில் காட்டுதல் (Shuffle Answers)
   function renderQuestion() {
     const q = quizData[idx];
-    if (!q) {
-      progressEl.textContent = "⚠️ செல்லுபடியாகாத வினா.";
-      return;
-    }
+    if (!q) return;
 
     const userChoice = q.userChoice;
     const hasAnswered = (userChoice !== undefined);
 
     progressEl.textContent = `வினா ${idx + 1} / ${quizData.length}`;
-    qEl.textContent = q.question || "வினா கிடைக்கவில்லை.";
+    qEl.textContent = q.question;
     optsEl.innerHTML = "";
-    nextBtn.style.display = "inline-block";
-    prevBtn.style.display = idx > 0 ? "inline-block" : "none";
 
-    const options = q.answerOptions || q.options || [];
-    if (!options.length) {
-      optsEl.innerHTML = "<p>விருப்பங்கள் இல்லை.</p>";
-      return;
+    // 👑 விடைகளைச் சீரற்ற முறையில் வரிசைப்படுத்துதல்
+    if (!q.shuffledOptions) {
+      let originalOptions = q.answerOptions || q.options || [];
+      q.shuffledOptions = originalOptions
+        .map((opt, i) => ({ opt, isCorrect: i === (q.answer || originalOptions.findIndex(o => o.isCorrect)) }))
+        .sort(() => Math.random() - 0.5);
     }
 
-    const correctIndex = typeof q.answer === "number"
-        ? q.answer
-        : (q.answerOptions?.findIndex(o => o.isCorrect) ?? 0);
-
-    options.forEach((opt, i) => {
+    q.shuffledOptions.forEach((item, i) => {
       const btn = document.createElement("button");
-      btn.type = "button";
       btn.className = "option-btn";
-      btn.innerHTML = `<strong>${["(அ)", "(ஆ)", "(இ)", "(ஈ)", "(உ)"][i] || (i + 1)}.</strong> ${
-        typeof opt === "string" ? opt : opt.text || ""
-      }`;
+      btn.innerHTML = `<strong>${["(அ)", "(ஆ)", "(இ)", "(ஈ)", "(உ)"][i] || (i + 1)}.</strong> ${typeof item.opt === "string" ? item.opt : item.opt.text}`;
 
       if (hasAnswered) {
         btn.disabled = true;
-        if (i === correctIndex) {
-          btn.classList.add("correct");
-        }
-        if (i === userChoice && userChoice !== correctIndex) {
-          btn.classList.add("wrong");
-        }
+        if (item.isCorrect) btn.classList.add("correct");
+        if (i === userChoice && !item.isCorrect) btn.classList.add("wrong");
       } else {
-        btn.onclick = () => selectAnswer(i, btn);
+        btn.onclick = () => selectAnswer(i, item.isCorrect, btn);
       }
       optsEl.appendChild(btn);
     });
 
+    // விளக்கம் மற்றும் பொத்தான்கள் தெரிவு
+    feedbackEl.style.display = hasAnswered ? "block" : "none";
     if (hasAnswered) {
-      const explanation =
-        q.explanation ||
-        q.answerOptions?.[correctIndex]?.rationale ||
-        "விளக்கம் வழங்கப்படவில்லை.";
-      feedbackEl.style.display = "block";
-      feedbackEl.innerHTML = `<strong>விளக்கம்:</strong> ${explanation}`;
-      if (noteEl) noteEl.innerHTML = "✅❌ நீங்கள் ஏற்கனவே பதிலளித்த வினா.";
-    } else {
-      feedbackEl.style.display = "none";
-      if (noteEl) noteEl.innerHTML = "🧾 வினாவை படித்து சரியான விடையைத் தேர்ந்தெடுக்கவும்.";
+      feedbackEl.innerHTML = `<strong>விளக்கம்:</strong> ${q.explanation || "வழங்கப்படவில்லை."}`;
     }
   }
 
-  // 🔹 Select answer
-  function selectAnswer(choice, btn) {
-    // --- 👑 புதிய மாற்றம்: செயல்படா நிலை நேரங்காட்டியை Reset செய் 👑 ---
-    if (typeof resetInactivityTimer === 'function') {
-      resetInactivityTimer();
-    }
-    // --- 👑 ---
-    
+  function selectAnswer(i, isCorrect, btn) {
+    if (typeof resetInactivityTimer === 'function') resetInactivityTimer();
     const q = quizData[idx];
-    if (!q || q.userChoice !== undefined) {
-      return; 
-    }
-    
-    q.userChoice = choice;
-
-    const correctIndex =
-      typeof q.answer === "number"
-        ? q.answer
-        : (q.answerOptions?.findIndex(o => o.isCorrect) ?? 0);
+    q.userChoice = i;
 
     const buttons = optsEl.querySelectorAll("button");
-    buttons.forEach(b => (b.disabled = true)); 
+    buttons.forEach(b => b.disabled = true);
 
-    if (choice === correctIndex) {
-      score++; 
+    if (isCorrect) {
+      score++;
       btn.classList.add("correct");
-      if (noteEl) noteEl.innerHTML = "✅ சரியான விடை!";
+      noteEl.innerHTML = "✅ சரியான விடை!";
     } else {
       btn.classList.add("wrong");
-      if (buttons[correctIndex]) buttons[correctIndex].classList.add("correct");
-      if (noteEl) noteEl.innerHTML = "❌ தவறான விடை.";
+      q.shuffledOptions.forEach((item, index) => {
+        if (item.isCorrect) buttons[index].classList.add("correct");
+      });
+      noteEl.innerHTML = "❌ தவறான விடை.";
     }
-
-    const explanation =
-      q.explanation ||
-      q.answerOptions?.[correctIndex]?.rationale ||
-      "விளக்கம் வழங்கப்படவில்லை.";
-    feedbackEl.style.display = "block";
-    feedbackEl.innerHTML = `<strong>விளக்கம்:</strong> ${explanation}`;
+    renderQuestion(); // நிலையைப் புதுப்பிக்க
   }
 
-  // 🔹 Navigation buttons
+  // 🔹 Navigation Events
   nextBtn.addEventListener("click", () => {
-    // --- 👑 புதிய மாற்றம்: செயல்படா நிலை நேரங்காட்டியை Reset செய் 👑 ---
-    if (typeof resetInactivityTimer === 'function') {
-      resetInactivityTimer();
-    }
-    // --- 👑 ---
-    
+    if (typeof resetInactivityTimer === 'function') resetInactivityTimer();
     if (idx < quizData.length - 1) {
       idx++;
       renderQuestion();
@@ -231,37 +165,22 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   prevBtn.addEventListener("click", () => {
-    // --- 👑 புதிய மாற்றம்: செயல்படா நிலை நேரங்காட்டியை Reset செய் 👑 ---
-    if (typeof resetInactivityTimer === 'function') {
-      resetInactivityTimer();
-    }
-    // --- 👑 ---
-
+    if (typeof resetInactivityTimer === 'function') resetInactivityTimer();
     if (idx > 0) {
       idx--;
       renderQuestion();
     }
   });
 
-  // 🔹 Results screen
   function showResults() {
     if (typeof showCustomResults === 'function') {
       showCustomResults(score, quizData.length, currentQuizTitle);
-    } else {
-      console.error("showCustomResults function not found! Cannot display results.");
-      resultsEl.style.display = "block";
-      resultsEl.innerHTML = `<h3>மதிப்பெண்: ${score} / ${quizData.length}</h3>
-                             <p>முடிவுகளைக் காட்டுவதில் பிழை.</p>`;
     }
   }
 
-  // 🔹 Quiz selection
   quizSelect.addEventListener("change", e => {
-    if (e.target.value) {
-      loadQuiz(e.target.value);
-    }
+    if (e.target.value) loadQuiz(e.target.value);
   });
 
-  // Start
   loadQuizList();
 });
